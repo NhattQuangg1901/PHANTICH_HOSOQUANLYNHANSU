@@ -1,0 +1,970 @@
+Employee ID,Full Name,Gender,Department,Job Title,Hire Date,Annual Salary,Performance Rating,Satisfaction Score,Employment Status,Gender_Encoded
+EMP-1353,Betty Garcia,Female,Customer Support,Support Team Lead,2016-11-23,65300.0,2,2,Resigned,0
+EMP-1690,Nancy Scott,Female,Sales,Account Manager,2017-07-12,87700.0,3,5,Active,0
+EMP-1486,Christopher Miller,Male,Sales,Regional Sales Lead,2019-04-03,106400.0,4,8,Active,1
+EMP-1389,Cynthia Perez,Female,Sales,Business Development Rep,2021-03-08,59100.0,4,8,Active,0
+EMP-1443,Ryan Jackson,Male,Sales,Sales Representative,2020-12-12,77000.0,3,3,Active,1
+EMP-1199,Cynthia King,Female,Sales,Sales Representative,2022-12-25,87400.0,3,6,Active,0
+EMP-1426,Rebecca Miller,Female,Sales,Sales Representative,2015-08-27,64700.0,4,5,Active,0
+EMP-1108,Susan Scott,Female,Marketing,Content Strategist,2025-03-25,68700.0,5,7,Active,0
+EMP-1715,Richard Allen,Male,Customer Support,Support Agent,2022-08-20,56500.0,4,10,Active,1
+EMP-1553,Paul Robinson,Male,Engineering,Data Scientist,2017-02-27,68700.0,4,4,Active,1
+EMP-1676,Donna Lee,Female,Engineering,QA Analyst,2019-02-28,100300.0,3,3,Resigned,0
+EMP-1159,Mark Brown,Male,Marketing,Marketing Coordinator,2018-12-02,58900.0,3,6,Active,1
+EMP-1476,Kimberly Brown,Female,Customer Support,Support Agent,2019-12-26,38400.0,3,4,Active,0
+EMP-1424,Carol Johnson,Female,Sales,Sales Director,2018-05-24,95900.0,2,2,Terminated,0
+EMP-1211,Carol Flores,Female,Finance,Accountant,2023-01-11,75400.0,3,3,Resigned,0
+EMP-1618,Joseph Scott,Male,Customer Support,Technical Support Specialist,2022-12-17,50500.0,4,6,Active,1
+EMP-1484,Mark Taylor,Male,Sales,Business Development Rep,2016-12-11,60200.0,2,4,Active,1
+EMP-1885,Edward Smith,Male,Engineering,QA Analyst,2019-05-17,74300.0,4,5,Resigned,1
+EMP-1651,Susan Allen,Female,Human Resources,HR Coordinator,2025-05-16,55200.0,5,9,Active,0
+EMP-1245,Amanda Martinez,Female,Marketing,SEO Specialist,2023-05-13,79800.0,5,7,Active,0
+EMP-1848,Kevin Walker,Male,Sales,Business Development Rep,2015-11-27,60600.0,4,5,Resigned,1
+EMP-1983,Donna King,Female,Engineering,Senior Developer,2018-06-17,135500.0,4,7,Active,0
+EMP-1829,Mark Martinez,Male,Sales,Regional Sales Lead,2019-10-25,115300.0,4,7,Active,1
+EMP-1571,Susan Anderson,Female,Customer Support,Technical Support Specialist,2023-01-16,48700.0,4,4,Terminated,0
+EMP-1060,Jennifer Young,Female,Operations,Warehouse Supervisor,2022-01-09,54300.0,1,2,Terminated,0
+EMP-1291,Deborah Lee,Female,Customer Support,Technical Support Specialist,2021-04-17,46900.0,3,5,Active,0
+EMP-1345,Emily Nguyen,Female,Human Resources,Training Specialist,2021-04-27,49500.0,4,5,Resigned,0
+EMP-1185,Laura Taylor,Female,Human Resources,HR Coordinator,2017-12-15,69700.0,3,3,Resigned,0
+EMP-1142,Dorothy Moore,Female,Engineering,QA Analyst,2015-05-24,89400.0,2,4,Active,0
+EMP-1391,Timothy Taylor,Male,Operations,Warehouse Supervisor,2020-10-27,75300.0,2,1,Resigned,1
+EMP-1492,James Ramirez,Male,Finance,Financial Analyst,2022-06-21,62300.0,4,4,Active,1
+EMP-1827,Stephanie Flores,Female,Finance,Financial Analyst,2022-03-18,80900.0,2,2,Active,0
+EMP-1102,George White,Male,Engineering,DevOps Engineer,2024-08-27,65800.0,4,5,Active,1
+EMP-1750,Matthew Allen,Male,Finance,Accountant,2018-02-19,81900.0,3,3,Resigned,1
+EMP-1552,Edward Jackson,Male,Sales,Sales Director,2015-07-09,102800.0,5,6,Active,1
+EMP-1307,Matthew Thomas,Male,Unknown,Warehouse Supervisor,2016-01-06,62800.0,3,5,Active,1
+EMP-1987,Michelle Miller,Female,Engineering,Senior Developer,2016-06-30,125100.0,3,4,Active,0
+EMP-1322,Cynthia Allen,Female,Finance,Controller,2023-06-17,139900.0,2,1,Active,0
+EMP-1800,Cynthia Martinez,Female,Operations,Logistics Coordinator,2024-07-16,62800.0,4,5,Resigned,0
+EMP-1731,Jessica Lewis,Female,Engineering,Data Scientist,2018-02-19,81900.0,3,5,Active,0
+EMP-1678,Paul Martinez,Male,Engineering,Senior Developer,2024-01-11,143500.0,4,5,Active,1
+EMP-1077,David Jones,Male,Marketing,Content Strategist,2019-12-29,73500.0,3,6,Active,1
+EMP-1193,Matthew Smith,Male,Customer Support,Support Agent,2020-02-21,40400.0,4,7,Active,1
+EMP-1087,Elizabeth Brown,Female,Marketing,SEO Specialist,2015-02-11,52800.0,4,6,Active,0
+EMP-1459,Kathleen Young,Female,Engineering,Tech Lead,2019-09-20,81900.0,5,8,Active,0
+EMP-1440,Paul Wilson,Male,Human Resources,HR Coordinator,2016-02-29,68200.0,4,8,Active,1
+EMP-1919,Michelle Torres,Female,Sales,Business Development Rep,2024-09-02,81900.0,4,4,Terminated,0
+EMP-1661,James Martin,Male,Customer Support,Customer Success Manager,2018-10-09,60200.0,5,8,Resigned,1
+EMP-1744,Susan Smith,Female,Marketing,Brand Manager,2016-02-22,116600.0,5,8,Active,0
+EMP-1874,Karen Ramirez,Female,Finance,Payroll Specialist,2015-04-08,68900.0,3,4,Active,0
+EMP-1399,Michael Flores,Male,Marketing,Content Strategist,2020-03-05,60100.0,3,6,Active,1
+EMP-1617,Deborah Moore,Female,Engineering,Data Scientist,2016-12-19,79400.0,3,4,Active,0
+EMP-1050,Ryan Rodriguez,Male,Sales,Sales Representative,2022-08-01,61900.0,4,7,Active,1
+EMP-1970,Ryan Allen,Male,Engineering,Tech Lead,2021-01-31,138900.0,3,6,Active,1
+EMP-1883,Karen Brown,Female,Unknown,Technical Support Specialist,2017-03-22,81900.0,3,3,Active,0
+EMP-1498,Paul Thomas,Male,Marketing,Digital Marketing Analyst,2016-09-22,66200.0,2,2,Active,1
+EMP-1604,Emily Brown,Female,Engineering,Data Scientist,2015-09-22,82200.0,3,3,Resigned,0
+EMP-1011,Mary Hernandez,Female,Engineering,Software Engineer,2024-10-10,99100.0,4,7,Resigned,0
+EMP-1889,Kenneth Scott,Male,Marketing,Brand Manager,2023-04-25,96400.0,3,6,Active,1
+EMP-1671,Betty Walker,Female,Unknown,Budget Manager,2017-09-02,136000.0,5,8,Active,0
+EMP-1938,Cynthia Harris,Female,Unknown,HR Coordinator,2024-10-31,65700.0,5,6,Active,0
+EMP-1929,Sarah Thompson,Female,Unknown,Tech Lead,2017-08-01,131500.0,3,4,Active,0
+EMP-1558,Michelle Thomas,Female,Finance,Payroll Specialist,2015-10-07,82200.0,4,5,Active,0
+EMP-1637,James Hill,Male,Operations,Logistics Coordinator,2017-12-25,61200.0,3,4,Resigned,1
+EMP-1834,Jeffrey White,Male,Finance,Controller,2016-12-14,92100.0,4,7,Active,1
+EMP-1372,Jessica Wright,Female,Legal,Compliance Officer,2018-02-09,95100.0,3,6,Resigned,0
+EMP-1835,Carol Taylor,Female,Finance,Accountant,2019-10-29,70600.0,4,7,Active,0
+EMP-1583,George King,Male,Finance,Payroll Specialist,2016-06-28,84300.0,2,4,Resigned,1
+EMP-1334,Joshua Williams,Male,Legal,Corporate Counsel,2024-11-03,114800.0,3,4,Terminated,1
+EMP-1946,Amanda Sanchez,Female,Sales,Regional Sales Lead,2022-10-05,87700.0,2,1,Terminated,0
+EMP-1320,Paul Moore,Male,Customer Support,Technical Support Specialist,2020-02-28,41400.0,5,7,Active,1
+EMP-1458,Melissa Ramirez,Female,Finance,Financial Analyst,2019-05-08,82300.0,5,9,Active,0
+EMP-1089,Robert Hernandez,Male,Sales,Business Development Rep,2019-08-26,81900.0,5,7,Active,1
+EMP-1880,Donna Smith,Female,Operations,Warehouse Supervisor,2017-04-05,56900.0,1,2,Resigned,0
+EMP-1351,Gary King,Male,Customer Support,Support Team Lead,2019-04-15,89800.0,2,1,Active,1
+EMP-1219,Laura Anderson,Female,Legal,Paralegal,2021-09-01,95800.0,4,7,Active,0
+EMP-1414,Jeffrey Williams,Male,Sales,Regional Sales Lead,2022-11-22,106200.0,4,5,Active,1
+EMP-1278,Kimberly Jackson,Female,Engineering,Tech Lead,2021-04-28,147200.0,3,4,Resigned,0
+EMP-1960,Michelle Hernandez,Female,Human Resources,Training Specialist,2018-05-27,57000.0,4,7,Resigned,0
+EMP-1926,Betty Jones,Female,Legal,Paralegal,2023-10-10,99100.0,3,6,Active,0
+EMP-1214,David Hernandez,Male,Engineering,Data Scientist,2016-10-03,77400.0,4,5,Active,1
+EMP-1097,Jennifer Thomas,Female,Engineering,Software Engineer,2019-12-25,78400.0,4,7,Active,0
+EMP-1079,George Walker,Male,Engineering,Senior Developer,2015-03-07,81900.0,2,4,Active,1
+EMP-1704,Daniel Hernandez,Male,Finance,Controller,2020-07-07,110900.0,4,5,Active,1
+EMP-1137,Donald Allen,Male,Operations,Logistics Coordinator,2024-05-10,74900.0,3,5,Terminated,1
+EMP-1209,Cynthia Nguyen,Female,Operations,Logistics Coordinator,2015-04-02,63900.0,3,5,Active,0
+EMP-1523,Joshua King,Male,Operations,Warehouse Supervisor,2020-05-22,81900.0,5,9,Active,1
+EMP-1838,Cynthia Martin,Female,Finance,Budget Manager,2024-01-14,132500.0,3,4,Active,0
+EMP-1733,Ashley Rodriguez,Female,Legal,Paralegal,2015-01-14,74300.0,3,6,Active,0
+EMP-1569,Joseph Moore,Male,Engineering,Tech Lead,2022-03-27,102700.0,3,4,Active,1
+EMP-1261,Steven Williams,Male,Customer Support,Support Agent,2020-03-10,42900.0,3,3,Resigned,1
+EMP-1468,Anthony Thomas,Male,Sales,Account Manager,2022-01-02,113500.0,3,4,Active,1
+EMP-1040,William Scott,Male,Customer Support,Support Agent,2018-04-11,39500.0,3,4,Active,1
+EMP-1031,Ronald Flores,Male,Engineering,Software Engineer,2017-05-30,71200.0,5,7,Active,1
+EMP-1698,Brian Moore,Male,Finance,Budget Manager,2021-05-20,131500.0,5,7,Active,1
+EMP-1452,Kenneth Hernandez,Male,Finance,Accountant,2023-09-19,58200.0,2,1,Active,1
+EMP-1055,Jessica Walker,Female,Human Resources,HR Business Partner,2022-04-08,81900.0,2,2,Resigned,0
+EMP-1024,Andrew King,Male,Sales,Account Manager,2021-08-19,123400.0,4,5,Resigned,1
+EMP-1514,Mary Anderson,Female,Finance,Budget Manager,2018-03-13,131600.0,3,5,Active,0
+EMP-1114,Jennifer Davis,Female,Engineering,Data Scientist,2023-04-04,103400.0,5,6,Resigned,0
+EMP-1110,Gary Martinez,Male,Engineering,DevOps Engineer,2019-07-26,81900.0,3,4,Active,1
+EMP-1967,Karen Johnson,Female,Sales,Sales Director,2019-05-10,111400.0,3,6,Active,0
+EMP-1950,Richard Wilson,Male,Finance,Controller,2018-12-01,120700.0,3,6,Resigned,1
+EMP-1004,Amanda Young,Female,Marketing,Marketing Coordinator,2018-03-09,10700.0,4,6,Active,0
+EMP-1276,Kimberly Thomas,Female,Engineering,Data Scientist,2021-10-09,76100.0,3,5,Active,0
+EMP-1657,Sarah Hill,Female,Operations,Process Improvement Lead,2019-10-21,107700.0,4,7,Active,0
+EMP-1785,Kathleen Miller,Female,Finance,Payroll Specialist,2023-06-26,70300.0,4,7,Resigned,0
+EMP-1855,Rebecca White,Female,Marketing,Brand Manager,2020-04-14,114000.0,4,5,Resigned,0
+EMP-1760,Steven Ramirez,Male,Engineering,Senior Developer,2020-09-27,132300.0,3,3,Terminated,1
+EMP-1797,Nancy Gonzalez,Female,Customer Support,Technical Support Specialist,2019-11-13,44200.0,4,6,Active,0
+EMP-1903,Karen Gonzalez,Female,Finance,Accountant,2016-06-08,81900.0,3,3,Resigned,0
+EMP-1395,Mary Robinson,Female,Legal,Paralegal,2017-12-20,81900.0,4,6,Active,0
+EMP-1487,Rebecca Wright,Female,Engineering,Senior Developer,2019-10-18,108300.0,4,6,Active,0
+EMP-1615,Sharon Lee,Female,Sales,Account Manager,2016-07-18,106600.0,1,2,Active,0
+EMP-1878,Matthew Lewis,Male,Finance,Payroll Specialist,2019-11-17,93400.0,3,3,Active,1
+EMP-1175,Christopher Ramirez,Male,Legal,Paralegal,2015-12-09,69100.0,5,6,Active,1
+EMP-1918,Sharon Hill,Female,Human Resources,Recruiter,2017-07-30,71700.0,3,4,Terminated,0
+EMP-1059,Melissa Robinson,Female,Engineering,Senior Developer,2017-09-28,137000.0,3,5,Active,0
+EMP-1266,Rebecca White,Female,Engineering,Senior Developer,2022-07-08,109600.0,4,7,Active,0
+EMP-1064,Amy Young,Female,Engineering,QA Analyst,2019-07-18,73900.0,3,6,Active,0
+EMP-1790,Karen Torres,Female,Sales,Sales Director,2019-10-12,136800.0,2,5,Active,0
+EMP-1262,Nancy Johnson,Female,Engineering,Data Scientist,2020-01-06,88800.0,2,4,Active,0
+EMP-1101,Susan Hill,Female,Legal,Paralegal,2015-02-13,66900.0,4,6,Active,0
+EMP-1925,Richard Perez,Male,Engineering,Tech Lead,2024-11-03,124800.0,4,7,Active,1
+EMP-1300,Dorothy King,Female,Marketing,SEO Specialist,2015-11-04,55300.0,2,4,Resigned,0
+EMP-1616,Barbara Moore,Female,Engineering,Data Scientist,2018-12-27,69800.0,3,4,Terminated,0
+EMP-1179,Robert Taylor,Male,Engineering,DevOps Engineer,2024-03-27,96400.0,3,3,Terminated,1
+EMP-1934,Lisa Sanchez,Female,Sales,Sales Representative,2015-09-30,74100.0,4,6,Resigned,0
+EMP-1779,Jennifer Young,Female,Engineering,QA Analyst,2015-03-17,92200.0,4,4,Active,0
+EMP-1140,Steven King,Male,Marketing,Marketing Coordinator,2024-06-16,79500.0,3,6,Active,1
+EMP-1804,Kenneth Torres,Male,Engineering,Software Engineer,2024-07-30,72800.0,4,5,Resigned,1
+EMP-1169,Kevin Hill,Male,Human Resources,Training Specialist,2019-05-20,61600.0,4,6,Active,1
+EMP-1067,Lisa Clark,Female,Human Resources,HR Business Partner,2020-02-01,55900.0,2,2,Active,0
+EMP-1257,Emily Hill,Female,Marketing,Marketing Coordinator,2015-03-06,53100.0,4,8,Active,0
+EMP-1013,Joseph Johnson,Male,Customer Support,Customer Success Manager,2015-06-18,85200.0,4,6,Active,1
+EMP-1532,Linda Garcia,Female,Unknown,Business Development Rep,2019-08-26,61800.0,4,4,Active,0
+EMP-1320,Paul Moore,Male,Customer Support,Technical Support Specialist,2020-02-28,41400.0,5,7,Active,1
+EMP-1985,Linda Jackson,Female,Sales,Sales Representative,2023-07-14,81900.0,3,3,Resigned,0
+EMP-1867,Robert Anderson,Male,Sales,Regional Sales Lead,2022-11-04,111900.0,4,8,Active,1
+EMP-1577,Ronald Harris,Male,Engineering,Senior Developer,2015-10-03,123100.0,3,6,Resigned,1
+EMP-1335,Christopher Williams,Male,Operations,Warehouse Supervisor,2024-11-11,47300.0,4,6,Active,1
+EMP-1287,Susan Hill,Female,Customer Support,Support Agent,2024-10-25,49100.0,4,7,Active,0
+EMP-1912,Kimberly Williams,Female,Customer Support,Support Team Lead,2023-11-07,76600.0,3,6,Active,0
+EMP-1324,Karen Martinez,Female,Engineering,QA Analyst,2017-11-09,81900.0,3,3,Active,0
+EMP-1891,Jessica Torres,Female,Unknown,Digital Marketing Analyst,2020-01-26,80400.0,2,4,Terminated,0
+EMP-1537,Donna Lee,Female,Engineering,Tech Lead,2021-06-01,81900.0,2,2,Terminated,0
+EMP-1693,Thomas Wright,Male,Engineering,Software Engineer,2015-11-25,75200.0,5,6,Active,1
+EMP-1650,Jennifer Smith,Female,Finance,Budget Manager,2021-11-01,136700.0,1,3,Resigned,0
+EMP-1529,William Walker,Male,Operations,Logistics Coordinator,2019-06-01,52600.0,2,2,Active,1
+EMP-1586,Kevin Thompson,Male,Engineering,QA Analyst,2016-07-24,92400.0,4,6,Active,1
+EMP-1003,Timothy Rodriguez,Male,Sales,Sales Representative,2017-10-06,80200.0,4,5,Active,1
+EMP-1446,Kathleen Rodriguez,Female,Engineering,DevOps Engineer,2025-05-30,71500.0,3,5,Active,0
+EMP-1238,David Thomas,Male,Customer Support,Customer Success Manager,2021-11-11,86000.0,3,6,Resigned,1
+EMP-1496,Kimberly Jackson,Female,Finance,Payroll Specialist,2016-05-12,81900.0,4,5,Active,0
+EMP-1782,Jennifer Harris,Female,Engineering,Data Scientist,2019-01-04,66700.0,5,7,Active,0
+EMP-1328,Dorothy Lopez,Female,Engineering,Senior Developer,2015-07-05,144000.0,2,2,Resigned,0
+EMP-1548,Betty Wilson,Female,Engineering,Data Scientist,2024-04-06,102800.0,5,8,Resigned,0
+EMP-1859,Thomas Scott,Male,Legal,Contract Specialist,2024-03-11,93800.0,3,5,Active,1
+EMP-1530,Laura Rodriguez,Female,Operations,Process Improvement Lead,2025-01-05,109400.0,2,5,Active,0
+EMP-1347,Sharon Torres,Female,Finance,Payroll Specialist,2021-01-30,67300.0,2,4,Active,0
+EMP-1884,Mark Harris,Male,Sales,Business Development Rep,2022-01-30,68900.0,3,3,Active,1
+EMP-1584,Lisa Harris,Female,Human Resources,HR Business Partner,2019-05-01,65100.0,3,3,Terminated,0
+EMP-1594,Nancy Wright,Female,Sales,Business Development Rep,2024-10-11,60200.0,3,5,Active,0
+EMP-1588,Christopher Garcia,Male,Engineering,QA Analyst,2015-12-10,67100.0,3,6,Active,1
+EMP-1309,Anthony Davis,Male,Finance,Budget Manager,2017-05-18,137000.0,3,5,Active,1
+EMP-1994,Elizabeth Hernandez,Female,Legal,Compliance Officer,2025-06-25,60500.0,4,6,Active,0
+EMP-1232,Anthony Scott,Male,Engineering,QA Analyst,2022-01-24,80100.0,4,5,Terminated,1
+EMP-1630,Jessica Johnson,Female,Engineering,Senior Developer,2016-06-06,155500.0,3,6,Active,0
+EMP-1602,James Rodriguez,Male,Sales,Regional Sales Lead,2021-06-12,81900.0,3,3,Terminated,1
+EMP-1663,David Thompson,Male,Finance,Accountant,2015-07-16,62200.0,4,8,Active,1
+EMP-1916,Dorothy Williams,Female,Customer Support,Support Team Lead,2015-03-25,87200.0,4,4,Active,0
+EMP-1315,Gary Moore,Male,Engineering,QA Analyst,2023-04-21,103700.0,5,7,Active,1
+EMP-1107,Susan Miller,Female,Sales,Sales Director,2025-04-28,114900.0,4,10,Active,0
+EMP-1824,Barbara Allen,Female,Legal,Corporate Counsel,2017-11-14,147200.0,5,2,Active,0
+EMP-1056,Timothy Allen,Male,Sales,Business Development Rep,2016-03-09,86800.0,3,6,Active,1
+EMP-1121,Kathleen Thomas,Female,Customer Support,Support Team Lead,2019-03-15,85900.0,5,7,Active,0
+EMP-1371,Donald Garcia,Male,Engineering,DevOps Engineer,2019-11-06,93600.0,3,5,Active,1
+EMP-1026,James Garcia,Male,Human Resources,HR Business Partner,2020-01-21,68300.0,3,5,Active,1
+EMP-1073,Steven Gonzalez,Male,Unknown,Recruiter,2025-05-27,51900.0,5,8,Active,1
+EMP-1550,Barbara Martin,Female,Unknown,Paralegal,2024-01-09,97600.0,4,7,Active,0
+EMP-1045,Jacob Flores,Male,Sales,Account Manager,2019-08-30,81900.0,4,8,Active,1
+EMP-1297,Elizabeth Ramirez,Female,Finance,Accountant,2018-09-02,81200.0,1,3,Active,0
+EMP-1329,Edward Moore,Male,Finance,Budget Manager,2015-01-07,133900.0,3,5,Resigned,1
+EMP-1248,Emily Perez,Female,Operations,Warehouse Supervisor,2021-10-27,77200.0,4,5,Active,0
+EMP-1337,Kenneth Lee,Male,Customer Support,Customer Success Manager,2016-07-07,70700.0,4,4,Active,1
+EMP-1362,Mary Scott,Female,Engineering,QA Analyst,2021-07-14,81900.0,3,5,Terminated,0
+EMP-1738,Christopher Jones,Male,Operations,Logistics Coordinator,2024-03-19,46400.0,5,7,Active,1
+EMP-1961,Thomas Thompson,Male,Sales,Sales Representative,2017-04-16,84600.0,3,3,Resigned,1
+EMP-1421,Jessica Nguyen,Female,Finance,Accountant,2022-04-10,87900.0,4,8,Active,0
+EMP-1382,Ashley Sanchez,Female,Engineering,Data Scientist,2023-09-16,73700.0,4,5,Active,0
+EMP-1695,Sandra Martin,Female,Engineering,QA Analyst,2023-04-28,99400.0,5,9,Active,0
+EMP-1540,Deborah Thomas,Female,Engineering,Data Scientist,2017-06-05,76000.0,4,6,Active,0
+EMP-1450,Ryan Wilson,Male,Marketing,Marketing Coordinator,2016-06-16,81900.0,3,3,Active,1
+EMP-1623,Stephanie Lee,Female,Marketing,Content Strategist,2019-01-19,59700.0,3,5,Active,0
+EMP-1210,Joshua Walker,Male,Sales,Sales Director,2021-07-26,109600.0,4,7,Active,1
+EMP-1555,Dorothy Lewis,Female,Operations,Warehouse Supervisor,2021-07-06,57700.0,4,8,Active,0
+EMP-1482,Kenneth White,Male,Operations,Operations Manager,2024-10-24,109300.0,2,3,Resigned,1
+EMP-1433,Barbara Harris,Female,Unknown,Brand Manager,2017-12-30,94900.0,4,4,Active,0
+EMP-1627,David Hill,Male,Engineering,Tech Lead,2019-11-20,155500.0,3,5,Resigned,1
+EMP-1061,Kimberly Walker,Female,Engineering,Software Engineer,2023-04-05,97000.0,4,4,Active,0
+EMP-1622,Lisa Rodriguez,Female,Finance,Accountant,2018-08-23,81500.0,3,6,Active,0
+EMP-1756,Linda Jones,Female,Sales,Business Development Rep,2020-12-04,64000.0,5,8,Active,0
+EMP-1093,Sandra Jackson,Female,Marketing,Content Strategist,2020-03-28,66400.0,5,7,Active,0
+EMP-1902,Kathleen Scott,Female,Human Resources,HR Coordinator,2017-10-02,67900.0,4,5,Active,0
+EMP-1463,William Thompson,Male,Marketing,SEO Specialist,2022-05-22,50600.0,3,5,Resigned,1
+EMP-1667,Melissa Martin,Female,Engineering,Data Scientist,2022-09-13,79500.0,4,8,Active,0
+EMP-1977,Melissa Nguyen,Female,Sales,Sales Representative,2025-04-17,54100.0,4,6,Resigned,0
+EMP-1478,Donna Flores,Female,Sales,Account Manager,2022-11-14,115000.0,4,5,Active,0
+EMP-1333,Sharon Young,Female,Human Resources,Training Specialist,2023-04-16,54700.0,2,2,Active,0
+EMP-1939,Ashley Perez,Female,Engineering,Senior Developer,2024-10-24,142300.0,3,6,Resigned,0
+EMP-1701,Anthony Martinez,Male,Sales,Sales Representative,2023-10-30,75700.0,3,4,Active,1
+EMP-1465,Kenneth Moore,Male,Sales,Sales Representative,2023-05-14,60800.0,4,5,Active,1
+EMP-1356,David Smith,Male,Marketing,SEO Specialist,2015-04-13,80900.0,3,6,Active,1
+EMP-1363,Andrew Martinez,Male,Customer Support,Customer Success Manager,2025-05-02,91800.0,4,6,Active,1
+EMP-1313,Deborah Lee,Female,Engineering,Tech Lead,2015-07-04,140600.0,4,6,Active,0
+EMP-1319,Cynthia Thompson,Female,Finance,Financial Analyst,2024-06-28,65000.0,2,4,Terminated,0
+EMP-1974,Daniel Martinez,Male,Operations,Supply Chain Analyst,2017-08-16,67700.0,2,4,Active,1
+EMP-1381,Kathleen Moore,Female,Engineering,Data Scientist,2021-11-15,99300.0,5,9,Active,0
+EMP-1183,Christopher Nguyen,Male,Marketing,Digital Marketing Analyst,2019-10-27,81900.0,2,5,Resigned,1
+EMP-1717,Mark Ramirez,Male,Engineering,Software Engineer,2018-05-15,72000.0,4,6,Active,1
+EMP-1111,Lisa Rodriguez,Female,Legal,Contract Specialist,2023-01-03,82100.0,4,6,Active,0
+EMP-1531,Kimberly Thompson,Female,Sales,Business Development Rep,2015-05-15,63700.0,5,7,Active,0
+EMP-1714,Kevin Smith,Male,Sales,Account Manager,2022-06-25,99900.0,4,7,Active,1
+EMP-1873,Lisa Thompson,Female,Customer Support,Technical Support Specialist,2018-09-30,45100.0,3,5,Resigned,0
+EMP-1940,Kathleen King,Female,Customer Support,Technical Support Specialist,2022-09-07,56300.0,4,8,Active,0
+EMP-1732,Dorothy Wright,Female,Sales,Sales Director,2024-05-27,95600.0,4,7,Active,0
+EMP-1293,Matthew Scott,Male,Human Resources,HR Coordinator,2016-06-29,56700.0,4,5,Active,1
+EMP-1836,David Smith,Male,Operations,Operations Manager,2022-10-03,105200.0,5,9,Resigned,1
+EMP-1308,Kathleen Smith,Female,Finance,Payroll Specialist,2024-11-27,91700.0,3,6,Active,0
+EMP-1290,Gary Moore,Male,Finance,Payroll Specialist,2021-11-09,71100.0,4,8,Active,1
+EMP-1969,Jacob Scott,Male,Operations,Operations Manager,2016-08-26,103700.0,3,3,Terminated,1
+EMP-1216,Edward White,Male,Engineering,Senior Developer,2022-09-15,128800.0,3,5,Active,1
+EMP-1631,Donna Lewis,Female,Human Resources,HR Coordinator,2023-09-18,71500.0,5,7,Resigned,0
+EMP-1281,Melissa Jones,Female,Unknown,Regional Sales Lead,2021-11-20,118200.0,4,8,Active,0
+EMP-1674,Barbara Robinson,Female,Engineering,Software Engineer,2016-01-12,93300.0,3,5,Active,0
+EMP-1451,Karen Nguyen,Female,Sales,Business Development Rep,2020-05-01,77100.0,4,10,Active,0
+EMP-1299,Emily Davis,Female,Customer Support,Technical Support Specialist,2023-04-29,155500.0,4,8,Active,0
+EMP-1786,Nancy Nguyen,Female,Engineering,Tech Lead,2017-04-09,103000.0,5,7,Active,0
+EMP-1138,Steven Lee,Male,Engineering,Data Scientist,2022-11-19,97600.0,4,6,Resigned,1
+EMP-1306,Jason Clark,Male,Finance,Budget Manager,2015-02-10,94400.0,3,5,Resigned,1
+EMP-1808,Elizabeth Hernandez,Female,Marketing,Brand Manager,2025-01-29,106800.0,5,6,Active,0
+EMP-1295,Cynthia Anderson,Female,Operations,Operations Manager,2015-05-28,87400.0,4,4,Resigned,0
+EMP-1600,Stephanie Anderson,Female,Finance,Controller,2023-01-31,94700.0,4,8,Active,0
+EMP-1582,Jason Lewis,Male,Operations,Warehouse Supervisor,2016-02-29,50700.0,5,6,Active,1
+EMP-1030,Sandra Lopez,Female,Sales,Business Development Rep,2021-09-18,79000.0,5,7,Active,0
+EMP-1166,Jessica Rodriguez,Female,Sales,Sales Director,2020-07-15,96900.0,3,4,Resigned,0
+EMP-1249,Richard Miller,Male,Engineering,DevOps Engineer,2025-05-01,95700.0,3,4,Resigned,1
+EMP-1311,Andrew Clark,Male,Marketing,Brand Manager,2016-06-22,105700.0,3,3,Active,1
+EMP-1686,Donna Jackson,Female,Finance,Controller,2017-04-30,97900.0,5,7,Active,0
+EMP-1844,Andrew Ramirez,Male,Engineering,QA Analyst,2018-07-16,78800.0,4,6,Active,1
+EMP-1343,Edward Anderson,Male,Engineering,Software Engineer,2016-04-15,76500.0,4,5,Resigned,1
+EMP-1606,Sharon Lee,Female,Engineering,Senior Developer,2022-06-24,136300.0,4,5,Active,0
+EMP-1527,George Thompson,Male,Finance,Budget Manager,2020-02-07,94700.0,3,3,Active,1
+EMP-1066,Michelle Miller,Female,Engineering,Data Scientist,2018-01-13,71800.0,4,8,Resigned,0
+EMP-1632,Mary Thomas,Female,Finance,Accountant,2021-06-07,90000.0,3,4,Active,0
+EMP-1892,Jessica Jackson,Female,Sales,Regional Sales Lead,2017-12-26,104500.0,3,5,Active,0
+EMP-1255,Thomas Sanchez,Male,Customer Support,Support Team Lead,2015-02-16,85400.0,4,7,Active,1
+EMP-1719,Ashley Harris,Female,Engineering,Data Scientist,2019-03-16,67400.0,3,5,Active,0
+EMP-1771,Kimberly Lopez,Female,Operations,Warehouse Supervisor,2021-02-01,60300.0,4,5,Terminated,0
+EMP-1222,Edward Martinez,Male,Engineering,DevOps Engineer,2019-12-27,85000.0,3,6,Active,1
+EMP-1236,Donald Sanchez,Male,Customer Support,Support Team Lead,2020-05-12,88200.0,4,6,Active,1
+EMP-1430,Jacob Hernandez,Male,Engineering,Tech Lead,2024-08-25,98400.0,4,5,Active,1
+EMP-1544,Joshua Wilson,Male,Finance,Controller,2023-04-22,102000.0,3,5,Active,1
+EMP-1441,Donald Martin,Male,Customer Support,Technical Support Specialist,2019-05-03,46900.0,4,7,Active,1
+EMP-1589,Betty Jones,Female,Engineering,DevOps Engineer,2018-05-08,68100.0,5,6,Active,0
+EMP-1973,Sandra Nguyen,Female,Finance,Budget Manager,2018-10-13,94400.0,3,4,Active,0
+EMP-1250,Mary Flores,Female,Customer Support,Technical Support Specialist,2019-04-30,41100.0,4,5,Active,0
+EMP-1579,Robert Moore,Male,Legal,Compliance Officer,2020-07-15,65100.0,5,8,Active,1
+EMP-1410,Paul Walker,Male,Finance,Accountant,2015-04-14,56000.0,5,9,Active,1
+EMP-1072,Thomas Wright,Male,Engineering,Data Scientist,2024-01-04,82100.0,5,6,Active,1
+EMP-1095,Edward Thompson,Male,Sales,Sales Director,2019-10-16,127100.0,2,5,Active,1
+EMP-1034,Deborah Ramirez,Female,Engineering,Software Engineer,2016-05-19,85400.0,3,6,Active,0
+EMP-1645,William Lopez,Male,Engineering,QA Analyst,2016-09-16,85600.0,4,6,Resigned,1
+EMP-1260,Donald Thomas,Male,Operations,Warehouse Supervisor,2024-09-17,77600.0,3,3,Resigned,1
+EMP-1205,Kevin Scott,Male,Human Resources,Compensation Analyst,2021-09-08,61200.0,3,4,Active,1
+EMP-1799,Ronald Gonzalez,Male,Marketing,Digital Marketing Analyst,2021-06-10,75200.0,5,9,Active,1
+EMP-1621,Laura White,Female,Operations,Warehouse Supervisor,2019-06-12,76800.0,4,6,Resigned,0
+EMP-1366,Robert Perez,Male,Unknown,Financial Analyst,2023-10-15,80300.0,4,7,Resigned,1
+EMP-1078,Mark Torres,Male,Engineering,Tech Lead,2022-07-11,152100.0,3,4,Active,1
+EMP-1085,Jessica Walker,Female,Operations,Supply Chain Analyst,2022-05-16,51300.0,3,10,Resigned,0
+EMP-1995,Kevin Brown,Male,Engineering,Software Engineer,2024-11-29,93000.0,3,4,Active,1
+EMP-1083,Cynthia Lewis,Female,Engineering,Software Engineer,2018-11-01,78900.0,5,7,Active,0
+EMP-1526,Kevin Scott,Male,Finance,Payroll Specialist,2024-03-23,93400.0,4,8,Active,1
+EMP-1568,James Lee,Male,Operations,Supply Chain Analyst,2024-12-28,68500.0,3,5,Active,1
+EMP-1561,Ronald Williams,Male,Engineering,DevOps Engineer,2020-09-11,81000.0,5,7,Active,1
+EMP-1543,Nancy Martinez,Female,Engineering,Software Engineer,2020-11-29,73600.0,3,3,Terminated,0
+EMP-1888,Michelle Sanchez,Female,Unknown,Compensation Analyst,2016-06-27,48500.0,5,7,Active,0
+EMP-1332,Jennifer Taylor,Female,Finance,Payroll Specialist,2024-02-07,73100.0,3,4,Resigned,0
+EMP-1006,William Williams,Male,Engineering,Software Engineer,2018-01-31,101800.0,4,5,Active,1
+EMP-1480,Joshua Brown,Male,Operations,Process Improvement Lead,2025-03-08,78800.0,4,7,Active,1
+EMP-1105,James King,Male,Engineering,QA Analyst,2019-08-09,74500.0,3,6,Active,1
+EMP-1098,Joseph Walker,Male,Legal,Corporate Counsel,2017-09-27,142000.0,3,3,Terminated,1
+EMP-1833,Cynthia Rodriguez,Female,Marketing,Content Strategist,2018-10-26,52900.0,5,8,Active,0
+EMP-1788,Barbara Martinez,Female,Customer Support,Support Team Lead,2015-12-30,84300.0,4,5,Active,0
+EMP-1425,Gary Torres,Male,Sales,Sales Director,2023-10-31,93100.0,4,5,Resigned,1
+EMP-1935,Brian Perez,Male,Operations,Logistics Coordinator,2019-11-27,53400.0,1,1,Active,1
+EMP-1282,Ryan Allen,Male,Unknown,Compensation Analyst,2019-11-22,70100.0,3,5,Terminated,1
+EMP-1267,Michael Martin,Male,Sales,Account Manager,2025-04-30,155500.0,1,3,Terminated,1
+EMP-1535,Jeffrey Young,Male,Finance,Payroll Specialist,2023-02-23,73800.0,3,6,Active,1
+EMP-1454,Kathleen Lee,Female,Unknown,Business Development Rep,2019-06-23,54000.0,5,9,Active,0
+EMP-1360,Donna Nguyen,Female,Operations,Process Improvement Lead,2019-12-25,119400.0,5,7,Active,0
+EMP-1491,Laura Smith,Female,Sales,Account Manager,2022-09-15,102000.0,5,6,Resigned,0
+EMP-1992,Susan Walker,Female,Human Resources,HR Business Partner,2023-07-26,53400.0,4,7,Active,0
+EMP-1817,Kenneth Miller,Male,Marketing,Digital Marketing Analyst,2021-05-14,79300.0,5,9,Active,1
+EMP-1119,Laura Taylor,Female,Finance,Budget Manager,2024-08-22,125700.0,3,5,Active,0
+EMP-1635,Kenneth Lopez,Male,Sales,Sales Representative,2016-12-10,60500.0,4,4,Resigned,1
+EMP-1251,Kevin Wright,Male,Sales,Account Manager,2024-06-19,128400.0,4,7,Resigned,1
+EMP-1406,George Wilson,Male,Engineering,Tech Lead,2024-05-21,150900.0,3,6,Active,1
+EMP-1718,Cynthia Clark,Female,Engineering,DevOps Engineer,2016-02-02,94200.0,3,6,Active,0
+EMP-1705,Richard White,Male,Finance,Payroll Specialist,2022-11-24,81100.0,3,3,Active,1
+EMP-1010,Stephanie Lee,Female,Operations,Process Improvement Lead,2023-02-07,78600.0,3,3,Active,0
+EMP-1860,Jacob Hill,Male,Legal,Compliance Officer,2023-01-25,98500.0,4,7,Terminated,1
+EMP-1197,Matthew Robinson,Male,Human Resources,Compensation Analyst,2024-01-03,81900.0,4,8,Active,1
+EMP-1653,Deborah Perez,Female,Engineering,Data Scientist,2022-03-08,79000.0,5,7,Active,0
+EMP-1082,Jessica White,Female,Sales,Sales Director,2025-06-02,120100.0,2,4,Resigned,0
+EMP-1448,Stephanie Young,Female,Sales,Sales Director,2022-04-28,107100.0,4,7,Active,0
+EMP-1534,Mary Miller,Female,Legal,Contract Specialist,2015-12-20,81300.0,4,5,Resigned,0
+EMP-1669,Deborah White,Female,Legal,Corporate Counsel,2022-02-04,104000.0,3,4,Active,0
+EMP-1240,Joseph Jones,Male,Engineering,DevOps Engineer,2016-09-21,78500.0,3,5,Active,1
+EMP-1412,Linda Brown,Female,Finance,Controller,2018-05-26,113600.0,3,5,Active,0
+EMP-1774,Karen Walker,Female,Marketing,Brand Manager,2017-08-04,90900.0,4,5,Active,0
+EMP-1546,Jennifer Nguyen,Female,Customer Support,Customer Success Manager,2025-04-08,60900.0,3,3,Terminated,0
+EMP-1520,Kevin Perez,Male,Finance,Financial Analyst,2021-09-08,61200.0,2,3,Resigned,1
+EMP-1228,Kenneth Taylor,Male,Engineering,DevOps Engineer,2018-07-25,155500.0,2,3,Resigned,1
+EMP-1923,Laura Scott,Female,Engineering,Data Scientist,2017-04-08,94500.0,3,5,Active,0
+EMP-1405,Sarah White,Female,Finance,Financial Analyst,2025-06-25,77300.0,3,4,Active,0
+EMP-1890,Linda King,Female,Marketing,Content Strategist,2015-07-28,69000.0,4,5,Active,0
+EMP-1178,Paul Young,Male,Unknown,Tech Lead,2021-07-10,81900.0,3,6,Active,1
+EMP-1466,Nancy Wilson,Female,Marketing,SEO Specialist,2017-12-19,72300.0,3,4,Resigned,0
+EMP-1431,Dorothy Davis,Female,Legal,Corporate Counsel,2016-03-19,114000.0,5,5,Active,0
+EMP-1533,Paul Gonzalez,Male,Human Resources,Compensation Analyst,2017-12-20,49600.0,3,5,Active,1
+EMP-1696,Jacob Martin,Male,Engineering,Senior Developer,2022-09-20,110900.0,4,4,Active,1
+EMP-1479,Ronald Rodriguez,Male,Finance,Controller,2018-03-27,138800.0,4,6,Active,1
+EMP-1008,Mary Jackson,Female,Customer Support,Technical Support Specialist,2017-10-08,59000.0,2,2,Resigned,0
+EMP-1156,Rebecca Lewis,Female,Sales,Sales Director,2017-07-07,103800.0,4,5,Active,0
+EMP-1358,Edward Harris,Male,Sales,Sales Representative,2015-11-03,75800.0,4,6,Active,1
+EMP-1585,Linda Robinson,Female,Marketing,SEO Specialist,2020-11-28,155500.0,4,5,Resigned,0
+EMP-1224,Carol Anderson,Female,Finance,Payroll Specialist,2022-08-01,88600.0,4,7,Active,0
+EMP-1330,Kathleen Young,Female,Marketing,Brand Manager,2022-04-26,116200.0,5,8,Active,0
+EMP-1634,Amy Martin,Female,Sales,Sales Representative,2021-11-23,76500.0,3,10,Terminated,0
+EMP-1823,Emily Scott,Female,Engineering,DevOps Engineer,2017-09-06,104700.0,4,4,Resigned,0
+EMP-1869,Ronald Clark,Male,Operations,Operations Manager,2016-09-11,95700.0,5,9,Active,1
+EMP-1612,Daniel Davis,Male,Engineering,Software Engineer,2021-08-02,88600.0,4,5,Active,1
+EMP-1097,Jennifer Thomas,Female,Engineering,Software Engineer,2019-12-25,78400.0,4,7,Active,0
+EMP-1747,George Martinez,Male,Engineering,Data Scientist,2018-02-01,88300.0,5,8,Resigned,1
+EMP-1679,Donald Ramirez,Male,Engineering,Software Engineer,2017-09-16,88900.0,3,10,Terminated,1
+EMP-1810,Ryan Scott,Male,Sales,Sales Director,2024-06-25,81900.0,4,5,Active,1
+EMP-1629,Daniel Johnson,Male,Engineering,Software Engineer,2022-05-14,95300.0,4,5,Active,1
+EMP-1763,Anthony White,Male,Finance,Accountant,2025-04-20,82900.0,2,4,Active,1
+EMP-1959,Sarah Taylor,Female,Engineering,DevOps Engineer,2015-11-01,78800.0,4,6,Active,0
+EMP-1164,Betty Lee,Female,Engineering,Software Engineer,2017-06-05,95800.0,3,4,Active,0
+EMP-1229,James Lewis,Male,Finance,Financial Analyst,2020-03-12,78700.0,4,6,Active,1
+EMP-1524,Ronald Clark,Male,Customer Support,Support Team Lead,2015-01-17,83600.0,2,2,Resigned,1
+EMP-1787,Emily Torres,Female,Marketing,SEO Specialist,2017-11-09,53000.0,4,5,Active,0
+EMP-1213,Mark Lee,Male,Finance,Financial Analyst,2021-07-19,86300.0,2,2,Terminated,1
+EMP-1826,Steven Clark,Male,Marketing,SEO Specialist,2019-10-12,54400.0,4,7,Active,1
+EMP-1080,Joshua Nguyen,Male,Finance,Budget Manager,2015-10-09,100200.0,4,5,Active,1
+EMP-1149,Stephanie Rodriguez,Female,Marketing,Brand Manager,2020-11-02,94200.0,3,4,Active,0
+EMP-1303,Melissa Thomas,Female,Sales,Regional Sales Lead,2015-04-26,85900.0,5,8,Active,0
+EMP-1449,Betty Martinez,Female,Engineering,Data Scientist,2015-02-07,75200.0,3,5,Resigned,0
+EMP-1502,Ronald Jackson,Male,Legal,Contract Specialist,2025-03-29,66100.0,2,5,Active,1
+EMP-1549,Robert Lee,Male,Engineering,Data Scientist,2020-05-17,100600.0,5,5,Active,1
+EMP-1842,Sandra Thompson,Female,Human Resources,HR Coordinator,2024-08-23,47800.0,3,4,Active,0
+EMP-1044,Jessica Davis,Female,Customer Support,Support Team Lead,2015-07-30,64400.0,4,6,Active,0
+EMP-1494,Steven Gonzalez,Male,Marketing,Digital Marketing Analyst,2023-05-15,81900.0,3,5,Active,1
+EMP-1134,Steven Flores,Male,Marketing,Content Strategist,2015-06-27,79800.0,4,10,Active,1
+EMP-1595,William King,Male,Legal,Contract Specialist,2022-09-13,86100.0,3,5,Active,1
+EMP-1312,Melissa Anderson,Female,Engineering,Data Scientist,2019-03-09,100200.0,3,3,Resigned,0
+EMP-1508,Jessica Robinson,Female,Engineering,Senior Developer,2023-03-05,110800.0,2,3,Terminated,0
+EMP-1656,Thomas Taylor,Male,Sales,Account Manager,2017-03-01,135100.0,3,6,Resigned,1
+EMP-1517,Mary Hernandez,Female,Operations,Logistics Coordinator,2018-12-07,55300.0,3,3,Terminated,0
+EMP-1850,Amanda Miller,Female,Finance,Financial Analyst,2024-10-19,56400.0,3,3,Active,0
+EMP-1812,Sarah Flores,Female,Engineering,Data Scientist,2023-01-31,89400.0,4,4,Active,0
+EMP-1001,Richard Hernandez,Male,Sales,Sales Representative,2023-02-12,85100.0,2,10,Active,1
+EMP-1783,Linda King,Female,Human Resources,HR Coordinator,2021-05-21,52300.0,4,7,Active,0
+EMP-1383,Elizabeth Thompson,Female,Sales,Regional Sales Lead,2016-12-15,119700.0,4,6,Active,0
+EMP-1317,Sandra Lopez,Female,Finance,Financial Analyst,2019-09-29,71200.0,3,5,Resigned,0
+EMP-1762,Karen Ramirez,Female,Marketing,Brand Manager,2022-12-12,98500.0,5,8,Active,0
+EMP-1592,Sharon Moore,Female,Engineering,Software Engineer,2021-07-10,73900.0,4,6,Active,0
+EMP-1409,Kimberly Lewis,Female,Marketing,Brand Manager,2017-04-13,108600.0,4,5,Resigned,0
+EMP-1942,Emily Sanchez,Female,Operations,Process Improvement Lead,2022-12-11,109600.0,3,5,Active,0
+EMP-1751,Kevin Smith,Male,Marketing,Content Strategist,2018-05-31,72400.0,5,8,Active,1
+EMP-1173,Steven Clark,Male,Marketing,Content Strategist,2015-12-28,49700.0,3,6,Active,1
+EMP-1126,Gary Wright,Male,Sales,Sales Director,2018-10-16,131900.0,3,3,Terminated,1
+EMP-1697,Dorothy Taylor,Female,Sales,Account Manager,2016-12-26,124200.0,3,6,Active,0
+EMP-1500,Jason Gonzalez,Male,Marketing,Digital Marketing Analyst,2022-03-21,68800.0,3,3,Active,1
+EMP-1597,Sandra Young,Female,Finance,Budget Manager,2022-05-17,106200.0,3,5,Active,0
+EMP-1972,Betty Davis,Female,Engineering,Data Scientist,2018-12-16,81600.0,3,3,Terminated,0
+EMP-1091,George Thompson,Male,Sales,Sales Director,2023-08-03,119800.0,4,8,Active,1
+EMP-1364,Donald Johnson,Male,Operations,Warehouse Supervisor,2023-08-06,64200.0,5,6,Active,1
+EMP-1275,Amy Anderson,Female,Operations,Operations Manager,2021-04-29,91500.0,4,4,Active,0
+EMP-1753,Stephanie Clark,Female,Unknown,Payroll Specialist,2023-05-22,58200.0,2,3,Active,0
+EMP-1070,Steven Wright,Male,Finance,Payroll Specialist,2019-01-19,59700.0,3,5,Active,1
+EMP-1292,Linda Thomas,Female,Marketing,SEO Specialist,2021-06-05,80800.0,3,6,Active,0
+EMP-1132,Carol Davis,Female,Finance,Budget Manager,2017-04-03,134500.0,3,3,Terminated,0
+EMP-1301,Betty Davis,Female,Engineering,Software Engineer,2016-08-26,90600.0,3,6,Active,0
+EMP-1713,Ronald Hill,Male,Engineering,DevOps Engineer,2015-11-10,75400.0,4,8,Active,1
+EMP-1327,Karen Allen,Female,Sales,Sales Director,2025-03-30,107300.0,4,8,Active,0
+EMP-1145,James Thompson,Male,Marketing,Content Strategist,2015-09-09,52200.0,5,7,Active,1
+EMP-1522,Stephanie Lopez,Female,Engineering,DevOps Engineer,2023-12-17,71000.0,4,8,Active,0
+EMP-1964,Jeffrey Wilson,Male,Sales,Account Manager,2020-03-11,125900.0,4,7,Active,1
+EMP-1887,Matthew Johnson,Male,Engineering,Data Scientist,2021-02-14,101500.0,4,5,Active,1
+EMP-1136,Karen Robinson,Female,Marketing,Marketing Coordinator,2018-03-25,51300.0,4,5,Active,0
+EMP-1997,Sandra Torres,Female,Engineering,Software Engineer,2016-05-21,97200.0,5,7,Active,0
+EMP-1723,William Flores,Male,Customer Support,Technical Support Specialist,2022-03-22,46800.0,3,10,Active,1
+EMP-1165,Barbara Lopez,Female,Engineering,Data Scientist,2020-09-30,83300.0,4,7,Active,0
+EMP-1029,Elizabeth Lee,Female,Sales,Sales Director,2016-01-15,118300.0,3,3,Active,0
+EMP-1680,Mark Anderson,Male,Sales,Sales Representative,2025-05-26,74900.0,2,2,Active,1
+EMP-1194,William Harris,Male,Finance,Controller,2016-05-01,96500.0,3,4,Terminated,1
+EMP-1903,Karen Gonzalez,Female,Unknown,Accountant,2016-06-08,69100.0,3,3,Resigned,0
+EMP-1814,Michelle Smith,Female,Finance,Payroll Specialist,2016-11-17,55700.0,4,7,Active,0
+EMP-1434,Steven Moore,Male,Engineering,Software Engineer,2022-05-13,81900.0,4,7,Active,1
+EMP-1988,Kathleen Flores,Female,Sales,Account Manager,2020-03-28,92000.0,4,8,Resigned,0
+EMP-1170,Andrew Young,Male,Engineering,DevOps Engineer,2022-12-18,65500.0,4,5,Active,1
+EMP-1542,Thomas Scott,Male,Human Resources,HR Coordinator,2024-02-15,46000.0,5,9,Active,1
+EMP-1141,Ryan Ramirez,Male,Engineering,Software Engineer,2015-10-23,100900.0,4,8,Active,1
+EMP-1174,Jessica Lee,Female,Finance,Payroll Specialist,2018-09-02,83200.0,4,4,Active,0
+EMP-1007,Laura Garcia,Female,Engineering,QA Analyst,2021-01-31,86300.0,4,6,Resigned,0
+EMP-1821,Nancy Rodriguez,Female,Marketing,Content Strategist,2021-11-11,56100.0,4,4,Active,0
+EMP-1536,Paul Lewis,Male,Engineering,DevOps Engineer,2018-12-29,104400.0,4,8,Active,1
+EMP-1962,Michelle Williams,Female,Finance,Budget Manager,2017-09-21,98700.0,4,7,Resigned,0
+EMP-1856,Matthew Robinson,Male,Marketing,Marketing Coordinator,2015-11-11,60000.0,1,3,Terminated,1
+EMP-1074,Ronald Lewis,Male,Legal,Contract Specialist,2015-09-04,97700.0,3,4,Active,1
+EMP-1528,Sharon Martin,Female,Unknown,Data Scientist,2020-05-22,76400.0,1,1,Terminated,0
+EMP-1239,Amy Miller,Female,Operations,Supply Chain Analyst,2024-03-02,70700.0,3,5,Active,0
+EMP-1146,David Sanchez,Male,Engineering,Senior Developer,2022-06-17,133400.0,4,5,Active,1
+EMP-1853,Joshua Taylor,Male,Human Resources,Recruiter,2021-09-28,65500.0,3,3,Terminated,1
+EMP-1235,Melissa Gonzalez,Female,Marketing,Marketing Coordinator,2023-10-20,51300.0,5,6,Active,0
+EMP-1221,Rebecca Smith,Female,Marketing,SEO Specialist,2023-07-19,51300.0,4,7,Resigned,0
+EMP-1215,Joshua Rodriguez,Male,Legal,Contract Specialist,2022-04-20,84400.0,3,3,Resigned,1
+EMP-1712,Jessica Sanchez,Female,Unknown,HR Coordinator,2017-01-02,72300.0,3,6,Active,0
+EMP-1133,Betty Allen,Female,Human Resources,HR Business Partner,2023-02-28,51600.0,1,1,Resigned,0
+EMP-1602,James Rodriguez,Male,Sales,Regional Sales Lead,2021-06-12,122700.0,3,3,Terminated,1
+EMP-1907,Paul Young,Male,Sales,Account Manager,2024-08-28,133300.0,3,6,Active,1
+EMP-1708,Timothy White,Male,Engineering,DevOps Engineer,2022-11-19,100800.0,5,9,Active,1
+EMP-1423,Jason Torres,Male,Customer Support,Support Agent,2015-07-08,45100.0,3,5,Active,1
+EMP-1186,Christopher Sanchez,Male,Sales,Regional Sales Lead,2015-01-03,125200.0,3,5,Resigned,1
+EMP-1042,Donald Wilson,Male,Marketing,Brand Manager,2015-06-30,117400.0,3,5,Active,1
+EMP-1768,Kenneth Smith,Male,Marketing,Content Strategist,2021-04-15,78800.0,3,5,Active,1
+EMP-1109,Kimberly Lopez,Female,Unknown,Payroll Specialist,2020-02-10,66800.0,5,8,Active,0
+EMP-1636,Robert Wright,Male,Engineering,Data Scientist,2023-08-24,77500.0,1,1,Active,1
+EMP-1057,Steven Davis,Male,Finance,Financial Analyst,2023-05-31,85400.0,4,8,Active,1
+EMP-1483,Melissa Sanchez,Female,Engineering,QA Analyst,2023-03-30,93500.0,2,5,Resigned,0
+EMP-1754,Ryan Walker,Male,Legal,Compliance Officer,2018-07-05,89700.0,3,3,Resigned,1
+EMP-1794,Stephanie Walker,Female,Engineering,Data Scientist,2022-09-16,81900.0,4,7,Active,0
+EMP-1469,George Jackson,Male,Sales,Sales Director,2023-07-08,128200.0,3,6,Active,1
+EMP-1927,Laura Torres,Female,Sales,Business Development Rep,2025-01-01,155500.0,2,2,Active,0
+EMP-1436,Anthony Moore,Male,Engineering,Senior Developer,2024-04-16,108700.0,4,7,Resigned,1
+EMP-1025,George Hernandez,Male,Finance,Accountant,2023-03-22,60600.0,4,6,Active,1
+EMP-1550,Barbara Martin,Female,Legal,Paralegal,2024-01-09,97600.0,4,7,Active,0
+EMP-1838,Cynthia Martin,Female,Finance,Budget Manager,2024-01-14,132500.0,3,4,Active,0
+EMP-1668,Edward Rodriguez,Male,Operations,Process Improvement Lead,2019-11-19,105500.0,3,6,Active,1
+EMP-1175,Christopher Ramirez,Male,Legal,Paralegal,2015-12-09,69100.0,5,6,Active,1
+EMP-1998,Christopher Davis,Male,Operations,Process Improvement Lead,2025-02-28,89000.0,2,2,Resigned,1
+EMP-1339,George Torres,Male,Finance,Financial Analyst,2015-11-21,65000.0,3,6,Active,1
+EMP-1052,Cynthia Thomas,Female,Engineering,Software Engineer,2018-12-03,88600.0,5,9,Active,0
+EMP-1384,Lisa Davis,Female,Unknown,Data Scientist,2017-05-10,92400.0,4,7,Active,0
+EMP-1862,Anthony Clark,Male,Human Resources,Training Specialist,2018-09-10,59500.0,4,6,Active,1
+EMP-1683,Karen Gonzalez,Female,Human Resources,Compensation Analyst,2022-09-23,56000.0,1,2,Terminated,0
+EMP-1996,Emily Moore,Female,Engineering,Data Scientist,2023-03-16,81500.0,2,4,Active,0
+EMP-1265,Jessica Lee,Female,Customer Support,Technical Support Specialist,2024-01-01,41900.0,3,5,Active,0
+EMP-1709,Robert Martinez,Male,Customer Support,Support Team Lead,2023-03-13,85400.0,3,5,Active,1
+EMP-1766,James White,Male,Marketing,SEO Specialist,2021-11-05,68600.0,3,4,Active,1
+EMP-1737,George Miller,Male,Marketing,SEO Specialist,2020-10-31,63800.0,3,4,Active,1
+EMP-1445,Melissa Wilson,Female,Customer Support,Technical Support Specialist,2016-07-30,40800.0,4,4,Active,0
+EMP-1396,Mary Scott,Female,Engineering,Tech Lead,2018-11-18,140100.0,2,4,Active,0
+EMP-1559,Kenneth Jones,Male,Finance,Accountant,2021-11-27,60600.0,4,5,Terminated,1
+EMP-1019,Steven Young,Male,Sales,Sales Representative,2019-12-28,80400.0,1,3,Resigned,1
+EMP-1980,Steven Gonzalez,Male,Operations,Supply Chain Analyst,2020-10-23,72000.0,4,6,Resigned,1
+EMP-1539,Joshua Lopez,Male,Engineering,DevOps Engineer,2022-08-29,91100.0,5,6,Resigned,1
+EMP-1614,Timothy Jones,Male,Sales,Regional Sales Lead,2021-10-05,132900.0,5,8,Active,1
+EMP-1591,Linda Lewis,Female,Engineering,DevOps Engineer,2022-11-27,80500.0,4,6,Active,0
+EMP-1368,Nancy Jackson,Female,Unknown,Business Development Rep,2017-12-07,58800.0,5,9,Active,0
+EMP-1084,Paul Clark,Male,Sales,Sales Director,2015-10-04,130900.0,2,2,Resigned,1
+EMP-1515,Dorothy Clark,Female,Legal,Compliance Officer,2023-09-01,63300.0,3,5,Resigned,0
+EMP-1273,Lisa Jones,Female,Legal,Corporate Counsel,2015-05-23,124000.0,1,1,Resigned,0
+EMP-1286,Steven Thomas,Male,Finance,Financial Analyst,2022-07-09,81900.0,2,10,Resigned,1
+EMP-1361,Jason Johnson,Male,Sales,Business Development Rep,2019-01-01,69900.0,3,6,Active,1
+EMP-1355,Jennifer Wilson,Female,Human Resources,Compensation Analyst,2018-02-21,49500.0,4,8,Active,0
+EMP-1952,Dorothy Smith,Female,Marketing,SEO Specialist,2018-12-20,56400.0,3,4,Active,0
+EMP-1279,Michelle Young,Female,Finance,Financial Analyst,2025-05-01,82800.0,5,7,Resigned,0
+EMP-1369,Joseph Allen,Male,Legal,Compliance Officer,2017-03-31,90700.0,4,5,Terminated,1
+EMP-1665,Sarah Thompson,Female,Finance,Accountant,2016-08-02,73600.0,3,5,Active,0
+EMP-1619,Jessica Sanchez,Female,Sales,Business Development Rep,2019-03-13,57000.0,3,3,Active,0
+EMP-1590,Richard Smith,Male,Customer Support,Customer Success Manager,2019-10-06,56900.0,5,9,Active,1
+EMP-1658,Ryan Martinez,Male,Sales,Sales Director,2015-09-14,98000.0,3,3,Resigned,1
+EMP-1457,Jessica Torres,Female,Legal,Compliance Officer,2018-03-24,67000.0,4,5,Resigned,0
+EMP-1394,Carol Wilson,Female,Engineering,DevOps Engineer,2020-01-12,96000.0,4,7,Active,0
+EMP-1685,Elizabeth Anderson,Female,Engineering,QA Analyst,2024-12-23,98400.0,3,6,Active,0
+EMP-1724,Joseph Martin,Male,Customer Support,Technical Support Specialist,2022-10-31,43500.0,4,8,Active,1
+EMP-1376,Edward Anderson,Male,Operations,Process Improvement Lead,2020-01-02,155500.0,5,8,Active,1
+EMP-1413,Kathleen Moore,Female,Engineering,Tech Lead,2024-07-21,143100.0,3,5,Active,0
+EMP-1075,Kimberly Miller,Female,Engineering,Tech Lead,2021-12-11,145400.0,1,1,Active,0
+EMP-1948,Ashley Martin,Female,Sales,Sales Representative,2018-04-25,56200.0,3,5,Resigned,0
+EMP-1605,Amy Wilson,Female,Engineering,Software Engineer,2022-04-06,83300.0,4,6,Active,0
+EMP-1115,Timothy Garcia,Male,Operations,Logistics Coordinator,2022-05-10,77400.0,3,3,Resigned,1
+EMP-1418,Karen Ramirez,Female,Marketing,Digital Marketing Analyst,2019-07-23,78800.0,3,3,Active,0
+EMP-1090,Mary Lee,Female,Unknown,Tech Lead,2018-07-25,132800.0,4,7,Active,0
+EMP-1991,Richard Lee,Male,Customer Support,Customer Success Manager,2015-04-10,65800.0,3,4,Active,1
+EMP-1933,Melissa Nguyen,Female,Marketing,SEO Specialist,2022-06-03,53400.0,5,6,Active,0
+EMP-1875,Ronald King,Male,Engineering,DevOps Engineer,2022-08-28,89700.0,3,5,Active,1
+EMP-1012,Michael Jackson,Male,Engineering,DevOps Engineer,2019-08-23,81900.0,4,6,Active,1
+EMP-1397,Donna Robinson,Female,Finance,Budget Manager,2025-01-30,142400.0,5,9,Active,0
+EMP-1576,William Wright,Male,Marketing,SEO Specialist,2023-02-05,59400.0,4,5,Active,1
+EMP-1043,Dorothy King,Female,Engineering,Tech Lead,2022-12-04,105700.0,2,2,Resigned,0
+EMP-1168,William Gonzalez,Male,Customer Support,Technical Support Specialist,2017-10-21,41100.0,2,5,Terminated,1
+EMP-1417,Daniel Lee,Male,Engineering,Data Scientist,2024-10-01,89300.0,4,6,Active,1
+EMP-1968,Ryan Martinez,Male,Human Resources,Training Specialist,2015-01-15,67400.0,2,5,Active,1
+EMP-1427,Michelle Smith,Female,Engineering,Software Engineer,2015-10-23,81700.0,4,6,Active,0
+EMP-1545,Ashley Jackson,Female,Marketing,SEO Specialist,2024-04-17,68800.0,4,6,Active,0
+EMP-1949,Emily Thomas,Female,Marketing,Digital Marketing Analyst,2017-04-13,56400.0,5,9,Active,0
+EMP-1905,Carol Lee,Female,Marketing,Marketing Coordinator,2016-09-09,54100.0,3,6,Active,0
+EMP-1662,Karen Martin,Female,Customer Support,Customer Success Manager,2015-02-02,69500.0,5,8,Resigned,0
+EMP-1258,Kenneth Thomas,Male,Marketing,Content Strategist,2024-10-25,62300.0,1,3,Resigned,1
+EMP-1336,Mary Clark,Female,Finance,Budget Manager,2023-03-24,127400.0,4,6,Active,0
+EMP-1016,Jeffrey Robinson,Male,Sales,Sales Director,2021-07-15,112000.0,4,8,Resigned,1
+EMP-1679,Donald Ramirez,Male,Engineering,Software Engineer,2017-09-16,88900.0,3,3,Terminated,1
+EMP-1325,Sandra Jackson,Female,Finance,Payroll Specialist,2025-03-26,78000.0,4,5,Active,0
+EMP-1818,Richard Ramirez,Male,Operations,Operations Manager,2022-06-30,99800.0,4,7,Active,1
+EMP-1223,Ronald Gonzalez,Male,Sales,Account Manager,2024-05-24,115800.0,2,3,Resigned,1
+EMP-1180,Deborah Miller,Female,Engineering,Senior Developer,2015-06-19,136200.0,4,6,Active,0
+EMP-1100,James Brown,Male,Engineering,Data Scientist,2018-04-07,72900.0,3,6,Active,1
+EMP-1522,Stephanie Lopez,Female,Engineering,DevOps Engineer,2023-12-17,155500.0,4,8,Active,0
+EMP-1023,Jennifer Johnson,Female,Engineering,Tech Lead,2023-04-04,101000.0,4,8,Active,0
+EMP-1357,Sharon Taylor,Female,Engineering,Tech Lead,2023-03-04,132700.0,3,4,Active,0
+EMP-1721,Melissa Harris,Female,Sales,Business Development Rep,2024-12-17,61400.0,1,1,Resigned,0
+EMP-1928,Kenneth Harris,Male,Operations,Supply Chain Analyst,2023-10-24,45500.0,3,3,Active,1
+EMP-1758,Mark Hernandez,Male,Sales,Sales Director,2021-07-21,132500.0,5,8,Active,1
+EMP-1341,Ashley Williams,Female,Human Resources,Recruiter,2020-11-01,65000.0,3,5,Active,0
+EMP-1432,Elizabeth Anderson,Female,Engineering,Tech Lead,2021-07-22,115300.0,4,6,Active,0
+EMP-1596,Robert Lee,Male,Unknown,QA Analyst,2019-03-03,92900.0,4,7,Active,1
+EMP-1899,James Clark,Male,Marketing,Content Strategist,2020-09-16,70800.0,3,5,Resigned,1
+EMP-1204,Kenneth Hill,Male,Sales,Regional Sales Lead,2016-02-25,126400.0,5,6,Active,1
+EMP-1761,Donna Harris,Female,Sales,Account Manager,2024-02-20,116400.0,4,5,Active,0
+EMP-1094,Jason Scott,Male,Customer Support,Technical Support Specialist,2020-08-26,45400.0,3,4,Resigned,1
+EMP-1603,Richard Lee,Male,Sales,Account Manager,2016-01-14,95000.0,4,4,Resigned,1
+EMP-1069,Jacob Clark,Male,Operations,Logistics Coordinator,2025-02-08,47700.0,4,6,Active,1
+EMP-1954,Deborah Harris,Female,Sales,Sales Director,2024-07-03,98700.0,3,3,Active,0
+EMP-1285,David Scott,Male,Finance,Payroll Specialist,2018-03-24,65600.0,3,6,Active,1
+EMP-1866,Stephanie Moore,Female,Human Resources,HR Business Partner,2016-05-31,49800.0,2,2,Terminated,0
+EMP-1435,Thomas Williams,Male,Sales,Sales Director,2017-04-13,117600.0,3,4,Active,1
+EMP-1154,James Jackson,Male,Finance,Accountant,2020-10-28,91500.0,4,5,Active,1
+EMP-1076,Sarah Johnson,Female,Unknown,Controller,2016-10-17,92600.0,5,6,Active,0
+EMP-1789,Jacob Miller,Male,Finance,Controller,2020-09-01,117700.0,4,7,Active,1
+EMP-1581,Amy Miller,Female,Engineering,DevOps Engineer,2016-04-19,75600.0,5,7,Active,0
+EMP-1447,William Thomas,Male,Finance,Payroll Specialist,2023-02-07,90400.0,2,10,Resigned,1
+EMP-1189,Steven Young,Male,Engineering,Data Scientist,2023-01-24,104900.0,3,4,Active,1
+EMP-1272,Donald Clark,Male,Customer Support,Technical Support Specialist,2018-04-30,47900.0,2,3,Resigned,1
+EMP-1237,Jennifer Hernandez,Female,Sales,Account Manager,2015-07-29,106000.0,2,1,Resigned,0
+EMP-1488,Jeffrey Harris,Male,Sales,Sales Representative,2023-02-09,64600.0,5,8,Active,1
+EMP-1560,Kevin Garcia,Male,Sales,Sales Director,2020-06-23,129400.0,4,10,Resigned,1
+EMP-1118,Richard Hernandez,Male,Legal,Contract Specialist,2018-07-12,87900.0,2,4,Resigned,1
+EMP-1881,Nancy Garcia,Female,Human Resources,Recruiter,2018-07-27,61300.0,4,7,Active,0
+EMP-1513,Jason Taylor,Male,Sales,Account Manager,2021-05-19,101000.0,4,8,Active,1
+EMP-1598,Jason Young,Male,Engineering,Data Scientist,2019-04-20,85500.0,4,7,Active,1
+EMP-1127,Joseph Smith,Male,Finance,Financial Analyst,2022-10-08,66500.0,4,6,Active,1
+EMP-1117,Sarah Lee,Female,Engineering,Software Engineer,2015-12-10,87300.0,4,5,Active,0
+EMP-1474,Dorothy Davis,Female,Finance,Financial Analyst,2018-03-15,56300.0,3,5,Resigned,0
+EMP-1058,Matthew Sanchez,Male,Unknown,Paralegal,2025-04-20,74100.0,2,4,Active,1
+EMP-1729,George Garcia,Male,Operations,Supply Chain Analyst,2017-01-30,77100.0,3,6,Active,1
+EMP-1981,Carol Wright,Female,Operations,Logistics Coordinator,2018-04-27,81900.0,5,6,Active,0
+EMP-1370,Amy King,Female,Finance,Budget Manager,2017-10-22,95200.0,2,4,Active,0
+EMP-1269,Joshua Scott,Male,Marketing,SEO Specialist,2024-12-01,155500.0,1,2,Resigned,1
+EMP-1047,Timothy Flores,Male,Legal,Contract Specialist,2025-04-16,81900.0,3,4,Active,1
+EMP-1350,Richard Taylor,Male,Sales,Business Development Rep,2017-11-19,79000.0,5,9,Active,1
+EMP-1196,Mary Scott,Female,Marketing,Marketing Coordinator,2017-06-08,76800.0,3,6,Active,0
+EMP-1103,Kimberly Rodriguez,Female,Customer Support,Support Agent,2023-08-23,52400.0,4,6,Active,0
+EMP-1900,Emily Sanchez,Female,Legal,Corporate Counsel,2024-07-10,114900.0,4,8,Active,0
+EMP-1746,William Young,Male,Marketing,Marketing Coordinator,2017-04-20,75500.0,3,3,Active,1
+EMP-1894,Anthony Brown,Male,Marketing,Digital Marketing Analyst,2023-06-27,66800.0,4,5,Active,1
+EMP-1264,Christopher Jones,Male,Operations,Process Improvement Lead,2022-02-04,111400.0,4,4,Active,1
+EMP-1444,Jessica Lewis,Female,Operations,Warehouse Supervisor,2022-12-22,77000.0,3,5,Active,0
+EMP-1793,Rebecca Nguyen,Female,Sales,Account Manager,2016-07-25,107900.0,4,10,Resigned,0
+EMP-1305,Christopher Young,Male,Operations,Operations Manager,2023-05-07,91700.0,3,5,Active,1
+EMP-1342,Jessica Walker,Female,Sales,Regional Sales Lead,2023-07-06,112000.0,3,10,Terminated,0
+EMP-1937,Steven Gonzalez,Male,Unknown,Logistics Coordinator,2021-11-17,47500.0,4,4,Active,1
+EMP-1314,Emily Perez,Female,Sales,Business Development Rep,2020-11-18,52200.0,4,6,Active,0
+EMP-1150,Michelle Flores,Female,Human Resources,HR Business Partner,2019-03-29,68400.0,4,7,Resigned,0
+EMP-1125,George Miller,Male,Sales,Sales Representative,2022-06-12,70000.0,4,7,Active,1
+EMP-1847,Carol Hernandez,Female,Marketing,Brand Manager,2025-01-19,85000.0,3,4,Resigned,0
+EMP-1886,Sarah Walker,Female,Marketing,Brand Manager,2017-08-26,101400.0,3,10,Active,0
+EMP-1051,Gary Smith,Male,Operations,Logistics Coordinator,2017-09-06,56100.0,5,8,Active,1
+EMP-1354,Jason Hernandez,Male,Customer Support,Support Team Lead,2021-07-20,72900.0,4,5,Active,1
+EMP-1999,David Thompson,Male,Engineering,QA Analyst,2015-05-01,77500.0,4,7,Active,1
+EMP-1143,Sandra Sanchez,Female,Engineering,Tech Lead,2015-11-12,100900.0,4,5,Active,0
+EMP-1471,Susan Harris,Female,Unknown,Accountant,2021-05-06,10700.0,4,8,Active,0
+EMP-1400,Kimberly Moore,Female,Engineering,DevOps Engineer,2023-08-14,103900.0,4,4,Active,0
+EMP-1930,Donna Gonzalez,Female,Sales,Business Development Rep,2018-04-22,53300.0,3,3,Resigned,0
+EMP-1321,Amanda Thomas,Female,Human Resources,Training Specialist,2017-08-28,50400.0,3,4,Active,0
+EMP-1020,Mary Lee,Female,Engineering,Tech Lead,2017-02-10,112700.0,5,8,Active,0
+EMP-1908,Laura Wright,Female,Finance,Controller,2017-09-18,125900.0,1,1,Resigned,0
+EMP-1851,Amanda Johnson,Female,Marketing,Digital Marketing Analyst,2023-07-13,81500.0,1,1,Terminated,0
+EMP-1895,Andrew Perez,Male,Engineering,Data Scientist,2016-08-27,86600.0,4,7,Active,1
+EMP-1408,Richard Lewis,Male,Unknown,Sales Director,2022-10-12,126100.0,2,2,Resigned,1
+EMP-1538,Brian Wright,Male,Sales,Sales Director,2015-07-13,87900.0,4,8,Active,1
+EMP-1694,Joshua Hill,Male,Sales,Sales Representative,2024-08-02,80500.0,4,6,Active,1
+EMP-1039,Ashley Lewis,Female,Finance,Budget Manager,2021-09-28,95900.0,4,6,Active,0
+EMP-1176,Brian Smith,Male,Finance,Budget Manager,2024-11-14,122300.0,4,5,Resigned,1
+EMP-1246,Linda Garcia,Female,Operations,Process Improvement Lead,2019-01-28,100100.0,3,6,Active,0
+EMP-1893,Sandra Rodriguez,Female,Engineering,Software Engineer,2016-01-08,99800.0,4,4,Active,0
+EMP-1722,Sharon Lopez,Female,Engineering,DevOps Engineer,2017-03-21,81900.0,5,7,Active,0
+EMP-1944,William Robinson,Male,Unknown,Account Manager,2016-12-15,96700.0,3,3,Resigned,1
+EMP-1639,Melissa Thompson,Female,Legal,Compliance Officer,2020-03-02,83700.0,5,9,Active,0
+EMP-1288,James Garcia,Male,Sales,Sales Representative,2021-02-09,56800.0,4,4,Active,1
+EMP-1626,Sarah Davis,Female,Customer Support,Support Agent,2021-02-11,49700.0,2,2,Active,0
+EMP-1570,Sandra Thomas,Female,Human Resources,Training Specialist,2020-10-16,60100.0,4,6,Active,0
+EMP-1802,Dorothy Ramirez,Female,Marketing,Content Strategist,2021-05-13,53800.0,5,6,Active,0
+EMP-1018,Kenneth Lewis,Male,Operations,Supply Chain Analyst,2021-07-03,69300.0,4,5,Resigned,1
+EMP-1128,David Hernandez,Male,Customer Support,Customer Success Manager,2019-12-06,69200.0,3,4,Active,1
+EMP-1323,Donald Ramirez,Male,Engineering,Tech Lead,2018-11-16,115500.0,3,3,Resigned,1
+EMP-1256,Lisa Hernandez,Female,Human Resources,Training Specialist,2023-02-09,56600.0,5,6,Active,0
+EMP-1791,Daniel White,Male,Sales,Sales Director,2021-12-12,129800.0,2,2,Resigned,1
+EMP-1500,Jason Gonzalez,Male,Marketing,Digital Marketing Analyst,2022-03-21,68800.0,3,3,Active,1
+EMP-1191,Deborah Johnson,Female,Engineering,Data Scientist,2021-04-01,83300.0,5,6,Active,0
+EMP-1116,Linda Williams,Female,Engineering,DevOps Engineer,2020-09-14,96200.0,2,2,Resigned,0
+EMP-1666,David Clark,Male,Finance,Accountant,2018-08-29,75800.0,4,7,Resigned,1
+EMP-1607,Ashley Lee,Female,Marketing,Content Strategist,2024-07-10,67700.0,3,4,Active,0
+EMP-1181,Paul Thompson,Male,Finance,Accountant,2020-05-24,70500.0,5,9,Active,1
+EMP-1302,Deborah Martin,Female,Customer Support,Support Agent,2024-12-17,49800.0,3,5,Active,0
+EMP-1830,Mary Moore,Female,Marketing,Marketing Coordinator,2023-01-12,53800.0,4,7,Active,0
+EMP-1901,Steven Perez,Male,Sales,Account Manager,2025-06-25,115600.0,2,5,Active,1
+EMP-1781,Paul Clark,Male,Engineering,Senior Developer,2015-03-09,148800.0,4,8,Active,1
+EMP-1740,Donna Torres,Female,Sales,Regional Sales Lead,2016-09-28,112000.0,4,7,Active,0
+EMP-1716,Timothy Lee,Male,Human Resources,Training Specialist,2016-11-17,47400.0,4,7,Active,1
+EMP-1518,Laura Walker,Female,Engineering,DevOps Engineer,2021-08-07,73600.0,4,8,Active,0
+EMP-1373,Christopher Johnson,Male,Marketing,Content Strategist,2015-12-23,49100.0,2,4,Active,1
+EMP-1046,Steven Allen,Male,Legal,Contract Specialist,2018-03-27,60800.0,5,5,Active,1
+EMP-1978,Kevin Williams,Male,Customer Support,Support Agent,2024-07-26,46600.0,4,8,Active,1
+EMP-1158,Christopher Gonzalez,Male,Marketing,Brand Manager,2024-12-19,92900.0,5,9,Active,1
+EMP-1803,Thomas Nguyen,Male,Sales,Sales Representative,2021-12-08,72200.0,3,5,Active,1
+EMP-1172,Kevin Wilson,Male,Engineering,Tech Lead,2021-08-29,124700.0,3,6,Active,1
+EMP-1017,Mary Walker,Female,Finance,Financial Analyst,2016-08-27,81200.0,5,8,Active,0
+EMP-1512,Mary Thompson,Female,Finance,Accountant,2021-09-10,87100.0,4,8,Active,0
+EMP-1049,Kevin Scott,Male,Operations,Operations Manager,2024-01-27,90500.0,3,3,Active,1
+EMP-1192,Paul Gonzalez,Male,Legal,Compliance Officer,2018-07-30,98700.0,4,5,Active,1
+EMP-1906,Elizabeth Smith,Female,Human Resources,Compensation Analyst,2023-01-18,63500.0,4,5,Active,0
+EMP-1516,Jason Thompson,Male,Human Resources,Recruiter,2025-06-11,65400.0,4,7,Active,1
+EMP-1735,Betty Young,Female,Sales,Business Development Rep,2020-06-10,89000.0,2,1,Active,0
+EMP-1741,Melissa Clark,Female,Engineering,Data Scientist,2020-10-22,102600.0,4,8,Active,0
+EMP-1481,Jessica Allen,Female,Human Resources,Training Specialist,2020-01-31,51600.0,4,6,Active,0
+EMP-1284,Robert Lewis,Male,Human Resources,Recruiter,2024-10-08,65500.0,4,6,Active,1
+EMP-1775,Barbara Williams,Female,Operations,Process Improvement Lead,2022-05-15,113600.0,4,7,Resigned,0
+EMP-1707,Linda Martinez,Female,Operations,Warehouse Supervisor,2022-10-10,67900.0,3,4,Active,0
+EMP-1027,Jennifer Nguyen,Female,Marketing,SEO Specialist,2022-01-20,54700.0,4,6,Active,0
+EMP-1843,Rebecca Lopez,Female,Engineering,Tech Lead,2020-07-22,129000.0,2,1,Active,0
+EMP-1438,Jason Jackson,Male,Unknown,QA Analyst,2019-02-03,84000.0,4,5,Active,1
+EMP-1365,Kenneth White,Male,Finance,Financial Analyst,2017-01-04,55300.0,4,8,Resigned,1
+EMP-1230,Donna Hill,Female,Engineering,Data Scientist,2023-12-24,66400.0,4,7,Active,0
+EMP-1038,Joshua Torres,Male,Legal,Corporate Counsel,2024-10-10,98200.0,4,7,Active,1
+EMP-1670,Dorothy Martin,Female,Customer Support,Technical Support Specialist,2024-03-30,40700.0,3,5,Active,0
+EMP-1375,Ryan Wilson,Male,Sales,Account Manager,2016-02-22,118500.0,3,3,Terminated,1
+EMP-1470,Steven Taylor,Male,Engineering,Tech Lead,2025-01-06,102100.0,2,3,Terminated,1
+EMP-1688,Sandra Moore,Female,Operations,Warehouse Supervisor,2024-02-29,66800.0,4,7,Active,0
+EMP-1917,Michelle Moore,Female,Human Resources,Recruiter,2016-06-13,59100.0,3,6,Active,0
+EMP-1759,Barbara Jackson,Female,Unknown,Training Specialist,2023-05-12,68100.0,3,5,Active,0
+EMP-1784,Kimberly Walker,Female,Finance,Budget Manager,2022-06-22,116900.0,2,1,Active,0
+EMP-1195,Joseph Harris,Male,Marketing,Content Strategist,2023-05-21,77700.0,5,8,Active,1
+EMP-1921,Joshua Lewis,Male,Finance,Budget Manager,2024-08-17,116600.0,4,7,Active,1
+EMP-1931,Matthew Taylor,Male,Legal,Corporate Counsel,2016-04-07,146400.0,3,5,Active,1
+EMP-1504,Dorothy Jones,Female,Unknown,Data Scientist,2020-07-12,90300.0,4,7,Active,0
+EMP-1896,David Davis,Male,Sales,Business Development Rep,2023-02-06,87600.0,4,4,Resigned,1
+EMP-1580,Sharon Lee,Female,Engineering,DevOps Engineer,2022-07-20,100500.0,3,5,Active,0
+EMP-1161,Sarah King,Female,Sales,Sales Representative,2019-01-20,78400.0,3,5,Active,0
+EMP-1681,Elizabeth Davis,Female,Engineering,Tech Lead,2022-12-01,130000.0,4,4,Active,0
+EMP-1163,Andrew Jackson,Male,Sales,Regional Sales Lead,2019-11-24,101100.0,3,6,Active,1
+EMP-1706,Joshua Clark,Male,Finance,Budget Manager,2015-03-05,119000.0,3,4,Active,1
+EMP-1757,Anthony Anderson,Male,Engineering,QA Analyst,2021-09-19,84800.0,4,6,Resigned,1
+EMP-1153,Jeffrey Clark,Male,Finance,Payroll Specialist,2021-06-18,74000.0,5,9,Active,1
+EMP-1801,Carol Nguyen,Female,Finance,Financial Analyst,2022-09-05,55100.0,4,5,Active,0
+EMP-1755,Betty White,Female,Marketing,Brand Manager,2021-03-10,107400.0,3,5,Terminated,0
+EMP-1815,Kathleen Sanchez,Female,Sales,Business Development Rep,2018-10-29,75900.0,3,6,Active,0
+EMP-1112,Nancy Wright,Female,Sales,Business Development Rep,2025-03-11,81600.0,3,6,Active,0
+EMP-1227,Linda Rodriguez,Female,Customer Support,Support Agent,2022-06-14,56400.0,5,8,Active,0
+EMP-1104,Paul Torres,Male,Sales,Sales Director,2020-10-31,85200.0,2,4,Active,1
+EMP-1422,Amanda Nguyen,Female,Engineering,Senior Developer,2016-11-17,104400.0,4,8,Active,0
+EMP-1420,Barbara Allen,Female,Finance,Controller,2020-11-11,133800.0,4,8,Active,0
+EMP-1809,Amy Anderson,Female,Engineering,Senior Developer,2023-05-25,128400.0,3,6,Active,0
+EMP-1587,Gary Wilson,Male,Operations,Process Improvement Lead,2016-06-14,99400.0,5,6,Resigned,1
+EMP-1673,Jason Hernandez,Male,Marketing,Content Strategist,2019-01-05,72600.0,3,5,Resigned,1
+EMP-1120,Brian Brown,Male,Unknown,SEO Specialist,2017-06-14,62500.0,2,3,Terminated,1
+EMP-1054,Susan King,Female,Engineering,Software Engineer,2019-02-03,88500.0,4,7,Active,0
+EMP-1152,Amy King,Female,Operations,Process Improvement Lead,2022-02-17,83700.0,3,4,Active,0
+EMP-1404,Kevin Robinson,Male,Engineering,Data Scientist,2015-12-26,81900.0,5,8,Active,1
+EMP-1281,Melissa Jones,Female,Sales,Regional Sales Lead,2021-11-20,118200.0,4,8,Active,0
+EMP-1208,Stephanie Brown,Female,Sales,Business Development Rep,2022-04-14,79800.0,4,5,Active,0
+EMP-1659,Jason Gonzalez,Male,Operations,Warehouse Supervisor,2024-05-30,81900.0,3,6,Active,1
+EMP-1910,Ronald Davis,Male,Marketing,Marketing Coordinator,2023-12-17,72000.0,2,1,Resigned,1
+EMP-1979,Richard Smith,Male,Marketing,Marketing Coordinator,2019-05-28,62100.0,5,8,Active,1
+EMP-1009,Laura Allen,Female,Marketing,Brand Manager,2015-12-28,81900.0,3,4,Active,0
+EMP-1870,Jacob Thompson,Male,Operations,Supply Chain Analyst,2016-03-10,55100.0,4,5,Resigned,1
+EMP-1037,Matthew Brown,Male,Finance,Budget Manager,2021-04-06,142900.0,4,8,Active,1
+EMP-1453,Emily Torres,Female,Customer Support,Customer Success Manager,2021-07-27,10700.0,4,6,Active,0
+EMP-1652,Carol Thomas,Female,Finance,Payroll Specialist,2025-05-18,84400.0,3,5,Resigned,0
+EMP-1254,David Sanchez,Male,Marketing,Content Strategist,2015-08-28,72200.0,5,9,Active,1
+EMP-1304,Linda Martin,Female,Unknown,Tech Lead,2018-11-12,122500.0,4,10,Active,0
+EMP-1911,Sandra Clark,Female,Finance,Controller,2018-10-23,127200.0,5,9,Active,0
+EMP-1572,Edward Brown,Male,Engineering,Software Engineer,2021-09-24,75400.0,3,3,Active,1
+EMP-1624,Donna Ramirez,Female,Customer Support,Support Agent,2020-07-15,43300.0,5,8,Active,0
+EMP-1765,Stephanie Hill,Female,Legal,Corporate Counsel,2021-09-05,81900.0,4,6,Active,0
+EMP-1993,Ronald Davis,Male,Engineering,DevOps Engineer,2021-12-15,86200.0,4,5,Active,1
+EMP-1263,Thomas Johnson,Male,Customer Support,Support Agent,2016-12-01,50600.0,5,9,Active,1
+EMP-1611,Betty Rodriguez,Female,Engineering,DevOps Engineer,2020-01-16,88500.0,3,3,Resigned,0
+EMP-1298,Brian Rodriguez,Male,Engineering,Data Scientist,2016-09-04,65300.0,3,4,Active,1
+EMP-1415,Mark Clark,Male,Engineering,Software Engineer,2017-05-23,96300.0,3,5,Active,1
+EMP-1849,Sandra Flores,Female,Human Resources,HR Coordinator,2015-10-11,61900.0,5,8,Active,0
+EMP-1641,Ronald Rodriguez,Male,Unknown,Account Manager,2019-08-16,84900.0,1,1,Active,1
+EMP-1957,Mary Johnson,Female,Engineering,Senior Developer,2018-07-30,101200.0,1,1,Active,0
+EMP-1852,Stephanie Scott,Female,Sales,Regional Sales Lead,2020-07-15,125100.0,4,7,Active,0
+EMP-1489,Kenneth Davis,Male,Engineering,Data Scientist,2017-11-01,92900.0,3,5,Active,1
+EMP-1711,Dorothy Smith,Female,Customer Support,Support Agent,2022-07-12,53600.0,3,6,Active,0
+EMP-1148,Cynthia Martin,Female,Sales,Sales Director,2017-12-29,99600.0,5,7,Active,0
+EMP-1147,Barbara Young,Female,Engineering,QA Analyst,2019-04-10,87400.0,3,4,Active,0
+EMP-1778,Joseph Williams,Male,Engineering,Software Engineer,2022-03-10,85400.0,3,3,Active,1
+EMP-1741,Melissa Clark,Female,Engineering,Data Scientist,2020-10-22,102600.0,4,8,Active,0
+EMP-1854,Timothy Smith,Male,Legal,Corporate Counsel,2020-04-26,116400.0,3,5,Active,1
+EMP-1951,Anthony Garcia,Male,Engineering,Software Engineer,2017-01-16,101500.0,4,6,Active,1
+EMP-1660,Carol Brown,Female,Engineering,DevOps Engineer,2020-04-23,83000.0,4,5,Active,0
+EMP-1349,Sandra Gonzalez,Female,Finance,Accountant,2019-04-21,70300.0,5,7,Active,0
+EMP-1464,Michael Hernandez,Male,Engineering,Senior Developer,2016-08-19,81900.0,3,4,Active,1
+EMP-1326,Barbara Wilson,Female,Legal,Contract Specialist,2019-09-30,64500.0,4,6,Active,0
+EMP-1187,James Rodriguez,Male,Operations,Warehouse Supervisor,2016-04-30,55300.0,4,5,Active,1
+EMP-1920,Dorothy Wright,Female,Marketing,SEO Specialist,2020-01-18,49500.0,4,6,Terminated,0
+EMP-1609,Emily Allen,Female,Operations,Logistics Coordinator,2016-10-21,53900.0,3,6,Resigned,0
+EMP-1752,Daniel Ramirez,Male,Engineering,Tech Lead,2017-12-29,129700.0,5,6,Active,1
+EMP-1198,Michelle Sanchez,Female,Engineering,Senior Developer,2018-12-13,138200.0,3,5,Resigned,0
+EMP-1610,Jason Clark,Male,Sales,Account Manager,2019-05-12,81900.0,2,4,Terminated,1
+EMP-1280,Christopher Hernandez,Male,Legal,Contract Specialist,2023-03-04,89300.0,4,7,Active,1
+EMP-1897,Jennifer Martinez,Female,Operations,Logistics Coordinator,2022-10-11,77600.0,4,4,Active,0
+EMP-1401,Sarah Martin,Female,Operations,Warehouse Supervisor,2019-01-14,81900.0,3,5,Active,0
+EMP-1123,Robert Smith,Male,Customer Support,Support Team Lead,2023-05-29,84100.0,4,5,Active,1
+EMP-1184,Timothy Johnson,Male,Engineering,QA Analyst,2015-01-15,83000.0,4,7,Active,1
+EMP-1439,Joseph Nguyen,Male,Engineering,QA Analyst,2015-07-03,93700.0,5,9,Active,1
+EMP-1247,Joseph Harris,Male,Sales,Sales Representative,2022-08-24,56200.0,3,6,Active,1
+EMP-1416,Betty Ramirez,Female,Operations,Supply Chain Analyst,2025-04-12,56700.0,3,5,Active,0
+EMP-1837,Michael Martinez,Male,Sales,Account Manager,2024-07-19,81900.0,2,1,Terminated,1
+EMP-1825,Matthew Martin,Male,Human Resources,Compensation Analyst,2017-05-13,59400.0,5,6,Terminated,1
+EMP-1975,Sharon Walker,Female,Engineering,Tech Lead,2022-09-29,10700.0,4,6,Active,0
+EMP-1828,Nancy Wilson,Female,Finance,Payroll Specialist,2015-08-05,70200.0,4,4,Active,0
+EMP-1955,Deborah Wright,Female,Human Resources,Training Specialist,2015-05-08,50000.0,4,7,Active,0
+EMP-1130,Susan Lee,Female,Engineering,Software Engineer,2020-07-19,69100.0,3,5,Active,0
+EMP-1638,William Thompson,Male,Engineering,DevOps Engineer,2023-07-11,89100.0,4,5,Terminated,1
+EMP-1403,Nancy Harris,Female,Sales,Business Development Rep,2018-12-06,61600.0,2,5,Active,0
+EMP-1845,Daniel White,Male,Sales,Sales Director,2020-11-30,111100.0,3,4,Active,1
+EMP-1831,Jeffrey White,Male,Human Resources,HR Business Partner,2023-12-11,64200.0,3,3,Active,1
+EMP-1736,Donna Thomas,Female,Sales,Business Development Rep,2020-04-06,81900.0,2,3,Active,0
+EMP-1982,Robert Hill,Male,Finance,Financial Analyst,2023-02-12,89300.0,4,6,Active,1
+EMP-1220,Timothy Rodriguez,Male,Operations,Logistics Coordinator,2022-09-21,47100.0,3,4,Resigned,1
+EMP-1642,Kenneth Thompson,Male,Legal,Corporate Counsel,2024-05-11,153500.0,3,4,Terminated,1
+EMP-1984,Kevin Hill,Male,Engineering,Tech Lead,2018-10-18,103400.0,2,5,Resigned,1
+EMP-1811,Paul Torres,Male,Sales,Account Manager,2022-09-26,108600.0,3,5,Active,1
+EMP-1989,Steven Nguyen,Male,Legal,Paralegal,2020-07-24,66200.0,5,6,Active,1
+EMP-1625,Karen Martin,Female,Marketing,Digital Marketing Analyst,2023-06-18,76900.0,4,7,Active,0
+EMP-1904,Anthony Lewis,Male,Marketing,Marketing Coordinator,2023-09-07,65400.0,4,6,Active,1
+EMP-1820,Linda Smith,Female,Marketing,Digital Marketing Analyst,2015-11-16,10700.0,5,8,Active,0
+EMP-1387,Elizabeth Lopez,Female,Engineering,DevOps Engineer,2019-04-24,96600.0,4,5,Resigned,0
+EMP-1807,Edward Brown,Male,Customer Support,Support Agent,2015-11-08,59300.0,3,4,Resigned,1
+EMP-1510,Jeffrey Moore,Male,Engineering,QA Analyst,2019-12-28,104900.0,4,5,Active,1
+EMP-1268,Andrew Jackson,Male,Engineering,Tech Lead,2017-11-12,155000.0,5,8,Resigned,1
+EMP-1882,Nancy Ramirez,Female,Unknown,Senior Developer,2017-06-08,138900.0,3,4,Active,0
+EMP-1442,James Nguyen,Male,Unknown,Support Team Lead,2019-12-20,84100.0,4,5,Resigned,1
+EMP-1497,Paul Thompson,Male,Engineering,Data Scientist,2015-07-07,94800.0,3,4,Active,1
+EMP-1113,Joshua Harris,Male,Marketing,Digital Marketing Analyst,2015-09-02,74500.0,2,3,Resigned,1
+EMP-1692,William Thomas,Male,Finance,Controller,2016-06-29,116700.0,4,6,Active,1
+EMP-1233,Jennifer Nguyen,Female,Legal,Paralegal,2017-03-09,88800.0,2,3,Active,0
+EMP-1936,Jason Walker,Male,Engineering,Senior Developer,2023-01-31,151500.0,4,7,Active,1
+EMP-1608,Emily Walker,Female,Sales,Account Manager,2016-10-10,96200.0,2,5,Active,0
+EMP-1672,Kimberly Ramirez,Female,Engineering,Tech Lead,2023-09-18,127200.0,2,4,Active,0
+EMP-1374,Matthew Johnson,Male,Legal,Corporate Counsel,2018-06-22,147100.0,4,7,Active,1
+EMP-1664,Susan Scott,Female,Finance,Budget Manager,2020-05-03,137600.0,4,7,Active,0
+EMP-1909,Ryan Sanchez,Male,Engineering,DevOps Engineer,2022-11-08,81900.0,3,4,Active,1
+EMP-1234,William Clark,Male,Sales,Regional Sales Lead,2018-05-20,97500.0,4,6,Active,1
+EMP-1846,Brian Martinez,Male,Unknown,Sales Representative,2023-01-11,67000.0,4,6,Active,1
+EMP-1677,Jessica Clark,Female,Customer Support,Support Agent,2024-07-30,50800.0,3,5,Terminated,0
+EMP-1318,Emily Smith,Female,Marketing,Marketing Coordinator,2019-01-23,155500.0,2,1,Resigned,0
+EMP-1649,William Anderson,Male,Human Resources,HR Business Partner,2024-05-24,57500.0,5,9,Active,1
+EMP-1411,Ryan Flores,Male,Marketing,Content Strategist,2016-05-29,10700.0,3,4,Active,1
+EMP-1966,Rebecca Davis,Female,Finance,Financial Analyst,2020-10-17,73900.0,4,5,Resigned,0
+EMP-1710,Andrew Lee,Male,Marketing,SEO Specialist,2018-05-04,78400.0,3,4,Active,1
+EMP-1359,Donald Miller,Male,Customer Support,Support Agent,2015-07-02,41500.0,5,7,Active,1
+EMP-1259,Carol Garcia,Female,Sales,Account Manager,2017-04-24,84700.0,4,7,Active,0
+EMP-1745,Emily Scott,Female,Engineering,Senior Developer,2019-09-04,132500.0,3,5,Resigned,0
+EMP-1628,Rebecca Rodriguez,Female,Customer Support,Support Agent,2023-10-25,50800.0,4,8,Terminated,0
+EMP-1633,Kathleen Flores,Female,Engineering,DevOps Engineer,2021-09-26,101200.0,3,5,Active,0
+EMP-1283,Andrew Perez,Male,Legal,Paralegal,2021-08-29,95900.0,4,5,Active,1
+EMP-1377,Emily Gonzalez,Female,Operations,Supply Chain Analyst,2015-02-12,63600.0,3,6,Active,0
+EMP-1385,Barbara Ramirez,Female,Engineering,Tech Lead,2017-06-30,142900.0,4,8,Active,0
+EMP-1225,Ronald Ramirez,Male,Engineering,Senior Developer,2024-12-13,118000.0,2,1,Active,1
+EMP-1102,George White,Male,Engineering,DevOps Engineer,2024-08-27,65800.0,4,5,Active,1
+EMP-1877,Edward Allen,Male,Marketing,SEO Specialist,2022-03-03,69100.0,4,7,Active,1
+EMP-1473,Emily Hernandez,Female,Marketing,Content Strategist,2015-06-06,51700.0,3,4,Active,0
+EMP-1348,Andrew Gonzalez,Male,Human Resources,Compensation Analyst,2018-03-01,57500.0,3,6,Resigned,1
+EMP-1506,Anthony Ramirez,Male,Finance,Controller,2024-11-16,128600.0,4,5,Active,1
+EMP-1640,Susan Flores,Female,Operations,Warehouse Supervisor,2023-08-30,57700.0,3,6,Active,0
+EMP-1798,Richard Anderson,Male,Human Resources,HR Coordinator,2021-04-14,52200.0,5,8,Active,1
+EMP-2000,Ronald Sanchez,Male,Sales,Regional Sales Lead,2016-11-27,94200.0,2,2,Active,1
+EMP-1974,Daniel Martinez,Male,Operations,Supply Chain Analyst,2017-08-16,67700.0,2,4,Active,1
+EMP-1620,Amy Jones,Female,Operations,Process Improvement Lead,2015-01-06,88100.0,4,10,Active,0
+EMP-1953,Lisa Lewis,Female,Marketing,SEO Specialist,2016-02-27,59800.0,4,6,Resigned,0
+EMP-1865,Mary Nguyen,Female,Sales,Business Development Rep,2024-12-15,84300.0,3,3,Resigned,0
+EMP-1646,Richard Thompson,Male,Engineering,Tech Lead,2025-03-19,116000.0,3,6,Active,1
+EMP-1913,Paul Moore,Male,Engineering,Tech Lead,2023-03-29,116600.0,5,6,Active,1
+EMP-1557,Anthony Hill,Male,Finance,Payroll Specialist,2023-02-11,73300.0,4,8,Active,1
+EMP-1682,Elizabeth Nguyen,Female,Finance,Accountant,2021-07-10,71500.0,4,4,Resigned,0
+EMP-1578,Sharon Young,Female,Sales,Business Development Rep,2024-11-05,52800.0,3,4,Active,0
+EMP-1796,Richard Brown,Male,Unknown,Account Manager,2023-10-19,96600.0,5,3,Resigned,1
+EMP-1086,Steven Thomas,Male,Engineering,Senior Developer,2017-03-18,153200.0,1,3,Terminated,1
+EMP-1243,Betty Allen,Female,Engineering,Tech Lead,2025-01-17,155500.0,2,2,Resigned,0
+EMP-1699,James Davis,Male,Operations,Warehouse Supervisor,2022-05-15,60600.0,1,3,Resigned,1
+EMP-1941,Carol Jackson,Female,Engineering,Data Scientist,2021-05-18,95600.0,3,3,Active,0
+EMP-1160,Melissa Miller,Female,Engineering,Tech Lead,2023-04-05,108400.0,5,7,Active,0
+EMP-1525,Richard Hernandez,Male,Finance,Accountant,2019-07-31,58700.0,5,6,Active,1
+EMP-1036,Jessica White,Female,Marketing,Marketing Coordinator,2021-04-28,72600.0,4,5,Active,0
+EMP-1541,Jennifer Gonzalez,Female,Finance,Payroll Specialist,2017-10-02,93300.0,3,5,Active,0
+EMP-1171,Cynthia Miller,Female,Engineering,Data Scientist,2019-10-18,79100.0,4,7,Active,0
+EMP-1655,Donna Allen,Female,Engineering,DevOps Engineer,2019-05-30,94500.0,5,9,Active,0
+EMP-1971,Sarah Allen,Female,Marketing,SEO Specialist,2023-12-29,67700.0,5,6,Resigned,0
+EMP-1924,Joshua White,Male,Engineering,Data Scientist,2016-09-18,85200.0,3,5,Active,1
+EMP-1914,Mary Scott,Female,Operations,Warehouse Supervisor,2017-04-04,81900.0,5,7,Resigned,0
+EMP-1734,Sharon Perez,Female,Engineering,Data Scientist,2025-03-29,80600.0,4,4,Resigned,0
+EMP-1096,Linda Davis,Female,Sales,Regional Sales Lead,2015-07-06,117100.0,4,7,Active,0
+EMP-1564,Edward Johnson,Male,Finance,Financial Analyst,2022-02-21,87600.0,3,4,Resigned,1
+EMP-1743,Sharon Garcia,Female,Marketing,SEO Specialist,2019-07-12,82000.0,3,4,Active,0
+EMP-1575,Michelle Sanchez,Female,Engineering,Data Scientist,2020-05-12,84500.0,4,8,Active,0
+EMP-1691,Robert Clark,Male,Human Resources,Training Specialist,2019-06-08,48400.0,4,7,Active,1
+EMP-1461,Gary King,Male,Marketing,SEO Specialist,2017-08-02,53100.0,4,8,Active,1
+EMP-1554,Brian Rodriguez,Male,Marketing,SEO Specialist,2017-12-03,70500.0,5,9,Active,1
+EMP-1858,George Lopez,Male,Customer Support,Support Agent,2015-12-08,54400.0,4,7,Active,1
+EMP-1945,Donald Hill,Male,Unknown,Budget Manager,2015-05-29,115700.0,3,4,Active,1
+EMP-1207,Thomas Garcia,Male,Customer Support,Support Team Lead,2016-07-22,66700.0,5,7,Active,1
+EMP-1393,Emily Hill,Female,Marketing,Content Strategist,2018-03-16,76300.0,3,4,Active,0
+EMP-1795,Melissa Clark,Female,Operations,Supply Chain Analyst,2019-10-23,46300.0,1,1,Terminated,0
+EMP-1871,Richard Young,Male,Marketing,Brand Manager,2021-07-12,123000.0,3,3,Resigned,1
+EMP-1398,Lisa Harris,Female,Finance,Accountant,2017-05-03,73100.0,1,1,Active,0
+EMP-1915,Jennifer Thomas,Female,Engineering,Senior Developer,2019-12-22,99000.0,3,5,Active,0
+EMP-1218,Timothy Taylor,Male,Customer Support,Support Agent,2020-01-15,49300.0,3,10,Active,1
+EMP-1005,Nancy Clark,Female,Finance,Financial Analyst,2016-04-28,61400.0,3,3,Resigned,0
+EMP-1769,Mark Garcia,Male,Marketing,Marketing Coordinator,2015-07-01,78300.0,4,8,Active,1
+EMP-1643,Deborah Gonzalez,Female,Human Resources,Training Specialist,2023-03-02,73400.0,5,9,Active,0
+EMP-1613,Jeffrey Allen,Male,Human Resources,Compensation Analyst,2025-06-12,49500.0,2,1,Resigned,1
+EMP-1739,Dorothy Brown,Female,Finance,Payroll Specialist,2022-04-25,87300.0,3,4,Resigned,0
+EMP-1547,David Garcia,Male,Engineering,Tech Lead,2024-06-10,148000.0,5,7,Active,1
+EMP-1726,Kathleen Jackson,Female,Engineering,DevOps Engineer,2025-05-21,81900.0,3,4,Active,0
+EMP-1986,Steven Martin,Male,Marketing,Brand Manager,2024-03-25,87700.0,5,8,Active,1
+EMP-1684,Kathleen Gonzalez,Female,Unknown,Tech Lead,2022-09-24,148300.0,4,4,Resigned,0
+EMP-1099,Ashley Martinez,Female,Engineering,Tech Lead,2022-05-25,142800.0,3,5,Active,0
+EMP-1805,James Moore,Male,Finance,Payroll Specialist,2017-03-03,93100.0,3,6,Active,1
+EMP-1728,Lisa Williams,Female,Finance,Controller,2023-08-18,99700.0,3,4,Active,0
+EMP-1574,Christopher Flores,Male,Operations,Logistics Coordinator,2024-04-02,63100.0,4,7,Active,1
+EMP-1407,Elizabeth Martinez,Female,Engineering,Senior Developer,2020-07-05,141000.0,3,5,Active,0
+EMP-1503,Sarah Ramirez,Female,Marketing,Brand Manager,2018-11-26,86600.0,5,6,Resigned,0
+EMP-1048,Barbara Wilson,Female,Operations,Warehouse Supervisor,2020-07-21,58600.0,3,10,Resigned,0
+EMP-1033,Melissa Flores,Female,Marketing,Content Strategist,2016-11-01,71600.0,4,7,Active,0
+EMP-1780,Dorothy White,Female,Operations,Operations Manager,2016-06-06,83400.0,4,6,Active,0
+EMP-1840,Ashley Gonzalez,Female,Engineering,Tech Lead,2019-09-24,145200.0,3,6,Resigned,0
+EMP-1201,George Hernandez,Male,Operations,Operations Manager,2018-07-04,114400.0,4,6,Active,1
+EMP-1135,Dorothy Hill,Female,Sales,Sales Representative,2018-02-06,55500.0,2,4,Resigned,0
+EMP-1028,Joshua Perez,Male,Human Resources,Recruiter,2019-08-04,73600.0,4,4,Active,1
+EMP-1947,Kathleen Lewis,Female,Marketing,Marketing Coordinator,2025-06-09,74000.0,4,5,Active,0
+EMP-1231,Sandra Lopez,Female,Engineering,Senior Developer,2021-05-17,119600.0,4,8,Active,0
+EMP-1490,Ronald Jackson,Male,Human Resources,Training Specialist,2023-09-18,48300.0,3,6,Active,1
+EMP-1773,Steven Ramirez,Male,Customer Support,Technical Support Specialist,2017-10-19,58300.0,3,5,Active,1
+EMP-1379,Jennifer Martin,Female,Engineering,Software Engineer,2019-10-22,80000.0,5,3,Resigned,0
+EMP-1289,James Gonzalez,Male,Sales,Sales Representative,2017-02-05,81900.0,3,3,Active,1
+EMP-1419,Kimberly Lewis,Female,Customer Support,Technical Support Specialist,2025-03-19,42600.0,3,4,Terminated,0
+EMP-1675,Jacob Wright,Male,Sales,Regional Sales Lead,2022-04-04,96000.0,3,5,Resigned,1
+EMP-1392,Stephanie Rodriguez,Female,Unknown,Data Scientist,2016-11-27,90400.0,3,6,Active,0
+EMP-1593,Richard Young,Male,Customer Support,Support Agent,2018-02-03,42600.0,4,5,Active,1
+EMP-1499,Karen Miller,Female,Marketing,Marketing Coordinator,2020-07-14,61200.0,4,6,Active,0
+EMP-1139,Andrew Smith,Male,Customer Support,Technical Support Specialist,2018-03-13,52600.0,5,7,Active,1
+EMP-1472,Jeffrey Jones,Male,Engineering,Data Scientist,2016-03-09,85700.0,4,8,Active,1
+EMP-1648,Kevin Ramirez,Male,Customer Support,Support Agent,2023-12-22,58700.0,4,8,Active,1
+EMP-1129,Carol Davis,Female,Operations,Process Improvement Lead,2021-08-22,99800.0,5,4,Active,0
+EMP-1521,Deborah Rodriguez,Female,Marketing,Brand Manager,2020-09-27,120500.0,5,9,Active,0
+EMP-1839,Jason Robinson,Male,Engineering,Software Engineer,2018-11-22,75900.0,5,8,Active,1
+EMP-1065,Linda Williams,Female,Sales,Business Development Rep,2019-04-10,89300.0,4,6,Active,0
+EMP-1813,Sandra King,Female,Engineering,Data Scientist,2023-04-22,101400.0,4,6,Active,0
+EMP-1015,Stephanie Walker,Female,Marketing,Digital Marketing Analyst,2015-05-30,61500.0,3,6,Resigned,0
+EMP-1157,Christopher White,Male,Sales,Account Manager,2016-06-25,116500.0,4,8,Resigned,1
+EMP-1041,Joseph Lewis,Male,Engineering,QA Analyst,2022-09-08,94500.0,3,6,Active,1
+EMP-1493,Donald Wilson,Male,Engineering,Senior Developer,2017-03-17,108300.0,2,4,Resigned,1
+EMP-1380,Michael Hill,Male,Unknown,Technical Support Specialist,2016-02-17,44500.0,3,5,Resigned,1
+EMP-1188,Elizabeth Harris,Female,Legal,Contract Specialist,2021-02-25,60700.0,2,5,Active,0
+EMP-1764,Donald Torres,Male,Engineering,QA Analyst,2015-07-30,72300.0,3,4,Active,1
+EMP-1217,Barbara Gonzalez,Female,Engineering,Senior Developer,2023-10-27,103200.0,4,5,Terminated,0
+EMP-1922,Anthony Lewis,Male,Engineering,Data Scientist,2015-03-19,103700.0,3,5,Active,1
+EMP-1792,Edward Robinson,Male,Sales,Sales Representative,2024-11-03,52200.0,4,4,Active,1
+EMP-1053,Joseph Jackson,Male,Sales,Regional Sales Lead,2017-06-16,118500.0,2,2,Resigned,1
+EMP-1879,Edward Allen,Male,Human Resources,Recruiter,2015-01-11,53100.0,4,8,Active,1
+EMP-1338,James Miller,Male,Finance,Controller,2019-09-27,123100.0,4,5,Active,1
+EMP-1749,Thomas Taylor,Male,Sales,Regional Sales Lead,2016-07-04,105800.0,3,3,Active,1
+EMP-1720,Linda Robinson,Female,Unknown,Payroll Specialist,2025-06-07,89800.0,4,4,Active,0
+EMP-1725,Kathleen Brown,Female,Unknown,SEO Specialist,2020-09-09,57200.0,2,1,Active,0
+EMP-1296,James Lee,Male,Legal,Corporate Counsel,2015-01-01,135300.0,3,6,Active,1
+EMP-1702,Anthony Wright,Male,Marketing,Marketing Coordinator,2024-02-12,48600.0,3,3,Active,1
+EMP-1252,Laura Flores,Female,Customer Support,Support Agent,2025-06-20,38600.0,3,6,Resigned,0
+EMP-1727,Matthew Clark,Male,Marketing,Brand Manager,2025-04-24,99500.0,3,4,Active,1
+EMP-1462,Amanda Clark,Female,Sales,Account Manager,2015-01-11,124300.0,5,7,Active,0
+EMP-1456,Mary Ramirez,Female,Operations,Warehouse Supervisor,2018-03-05,60700.0,3,3,Resigned,0
+EMP-1271,Donald Johnson,Male,Marketing,Content Strategist,2016-05-11,59900.0,2,2,Resigned,1
+EMP-1816,Nancy Walker,Female,Engineering,Senior Developer,2020-02-23,114200.0,5,6,Active,0
+EMP-1863,Sharon Brown,Female,Customer Support,Support Agent,2019-10-06,42100.0,2,2,Active,0
+EMP-1270,Kimberly Gonzalez,Female,Engineering,Senior Developer,2020-09-25,131300.0,5,8,Active,0
+EMP-1528,Sharon Martin,Female,Engineering,Data Scientist,2020-05-22,76400.0,1,1,Terminated,0
+EMP-1202,Joshua Gonzalez,Male,Sales,Sales Representative,2016-12-08,65300.0,3,6,Active,1
+EMP-1162,Dorothy Harris,Female,Legal,Compliance Officer,2023-08-23,65900.0,3,3,Resigned,0
+EMP-1556,Christopher Hernandez,Male,Engineering,QA Analyst,2023-08-05,98500.0,5,8,Active,1
+EMP-1730,Edward Lewis,Male,Engineering,Senior Developer,2021-05-07,104300.0,3,3,Resigned,1
+EMP-1402,Donald Gonzalez,Male,Engineering,QA Analyst,2015-09-09,65800.0,4,5,Active,1
+EMP-1703,Stephanie Anderson,Female,Customer Support,Support Agent,2019-07-20,38900.0,4,6,Active,0
+EMP-1477,Timothy Thomas,Male,Legal,Corporate Counsel,2021-04-12,124500.0,2,1,Active,1
+EMP-1822,Barbara Garcia,Female,Human Resources,Recruiter,2018-11-19,66100.0,4,8,Active,0
+EMP-1772,Matthew King,Male,Sales,Regional Sales Lead,2015-02-17,88900.0,4,6,Active,1
+EMP-1106,Joseph Miller,Male,Customer Support,Customer Success Manager,2016-03-26,82100.0,3,4,Resigned,1
+EMP-1566,Deborah Hernandez,Female,Finance,Payroll Specialist,2017-01-02,81900.0,3,3,Active,0
+EMP-1390,Paul Walker,Male,Engineering,DevOps Engineer,2019-03-19,85200.0,4,5,Resigned,1
+EMP-1002,Richard Harris,Male,Operations,Warehouse Supervisor,2020-11-04,54900.0,5,6,Active,1
+EMP-1975,Sharon Walker,Female,Engineering,Tech Lead,2022-09-29,81900.0,4,6,Active,0
+EMP-1562,Anthony Clark,Male,Legal,Compliance Officer,2020-04-30,61800.0,3,5,Resigned,1
+EMP-1932,Thomas Jones,Male,Engineering,DevOps Engineer,2017-07-24,82900.0,1,1,Terminated,1
+EMP-1081,Susan Sanchez,Female,Engineering,Software Engineer,2016-04-17,91500.0,3,6,Active,0
+EMP-1206,Elizabeth Ramirez,Female,Finance,Payroll Specialist,2019-09-09,63800.0,3,5,Resigned,0
+EMP-1035,Steven Perez,Male,Engineering,Tech Lead,2017-09-27,153700.0,5,8,Resigned,1
+EMP-1943,Kevin Anderson,Male,Engineering,Senior Developer,2016-08-11,81900.0,4,8,Active,1
+EMP-1509,Sharon Garcia,Female,Operations,Warehouse Supervisor,2022-08-21,61200.0,3,6,Active,0
+EMP-1585,Linda Robinson,Female,Marketing,SEO Specialist,2020-11-28,81100.0,4,5,Resigned,0
+EMP-1367,Ronald Garcia,Male,Unknown,Content Strategist,2019-12-18,80000.0,5,8,Active,1
+EMP-1092,Matthew Davis,Male,Engineering,QA Analyst,2025-02-18,80800.0,3,5,Terminated,1
+EMP-1340,Donald White,Male,Operations,Process Improvement Lead,2022-10-27,84500.0,3,6,Active,1
+EMP-1898,George Lopez,Male,Human Resources,HR Business Partner,2024-10-20,49700.0,4,8,Active,1
+EMP-1565,Ryan Hernandez,Male,Human Resources,Compensation Analyst,2017-02-05,52300.0,5,8,Active,1
+EMP-1346,Karen Jones,Female,Human Resources,Training Specialist,2024-01-27,59600.0,3,4,Active,0
+EMP-1777,Amy Moore,Female,Finance,Financial Analyst,2021-12-13,74200.0,2,5,Active,0
+EMP-1014,Susan Taylor,Female,Customer Support,Technical Support Specialist,2024-04-10,41300.0,3,6,Active,0
+EMP-1316,Ryan Taylor,Male,Human Resources,Recruiter,2018-08-18,46600.0,3,4,Active,1
+EMP-1601,Andrew Gonzalez,Male,Human Resources,Training Specialist,2019-12-02,45600.0,3,6,Active,1
+EMP-1388,Ryan Smith,Male,Legal,Paralegal,2017-08-09,76200.0,4,7,Active,1
+EMP-1274,Jason Hill,Male,Marketing,Brand Manager,2021-03-06,100500.0,4,7,Active,1
+EMP-1167,Thomas Clark,Male,Finance,Financial Analyst,2018-07-28,90800.0,4,5,Active,1
+EMP-1841,Kevin Clark,Male,Finance,Accountant,2016-11-04,60100.0,3,3,Resigned,1
+EMP-1021,Robert Jackson,Male,Sales,Regional Sales Lead,2023-02-11,114700.0,2,4,Active,1
+EMP-1819,Joshua Lewis,Male,Customer Support,Customer Success Manager,2016-05-18,78800.0,3,4,Active,1
+EMP-1485,Robert Brown,Male,Engineering,Senior Developer,2016-10-31,100600.0,4,7,Active,1
+EMP-1505,Nancy Scott,Female,Customer Support,Support Agent,2023-04-27,43400.0,4,6,Active,0
+EMP-1832,Joseph Perez,Male,Sales,Sales Director,2023-02-08,97700.0,5,6,Active,1
+EMP-1244,Sarah Lopez,Female,Customer Support,Customer Success Manager,2023-12-11,83500.0,3,4,Resigned,0
+EMP-1876,Thomas Harris,Male,Legal,Paralegal,2015-03-26,73200.0,5,9,Active,1
+EMP-1563,Jennifer Jackson,Female,Finance,Accountant,2020-10-29,60000.0,3,5,Active,0
+EMP-1687,Brian Martinez,Male,Engineering,Senior Developer,2025-03-08,81900.0,3,6,Active,1
+EMP-1190,Karen King,Female,Engineering,Software Engineer,2017-09-02,84600.0,4,7,Resigned,0
+EMP-1976,Karen Smith,Female,Sales,Business Development Rep,2022-06-14,81900.0,4,5,Active,0
+EMP-1511,Richard King,Male,Operations,Operations Manager,2021-01-15,115700.0,4,5,Active,1
+EMP-1475,Rebecca Hernandez,Female,Engineering,Tech Lead,2025-02-08,102800.0,1,1,Active,0
+EMP-1857,Donald King,Male,Operations,Supply Chain Analyst,2020-09-09,77500.0,3,3,Active,1
+EMP-1748,Elizabeth Torres,Female,Marketing,Marketing Coordinator,2020-04-03,65300.0,1,3,Terminated,0
+EMP-1253,Mary Young,Female,Customer Support,Customer Success Manager,2022-11-25,75900.0,2,1,Resigned,0
+EMP-1022,Thomas Gonzalez,Male,Sales,Regional Sales Lead,2020-02-07,98800.0,4,7,Active,1
+EMP-1460,Daniel Nguyen,Male,Engineering,Data Scientist,2017-09-10,93100.0,3,4,Active,1
+EMP-1277,Ronald Martinez,Male,Finance,Accountant,2017-01-13,67800.0,3,3,Resigned,1
+EMP-1956,Sharon Wilson,Female,Operations,Process Improvement Lead,2017-04-04,89500.0,3,6,Active,0
+EMP-1386,Christopher Allen,Male,Finance,Payroll Specialist,2021-03-11,85500.0,4,7,Active,1
+EMP-1806,Brian Walker,Male,Operations,Warehouse Supervisor,2025-06-04,48300.0,5,8,Active,1
+EMP-1344,Sharon Ramirez,Female,Operations,Warehouse Supervisor,2015-05-29,72900.0,5,6,Active,0
+EMP-1131,Michelle Garcia,Female,Finance,Payroll Specialist,2024-11-19,81900.0,3,4,Active,0
+EMP-1872,Ronald Torres,Male,Operations,Operations Manager,2023-02-07,155500.0,3,5,Terminated,1
+EMP-1088,Michael Davis,Male,Engineering,DevOps Engineer,2019-01-25,102800.0,4,8,Active,1
+EMP-1331,Melissa Garcia,Female,Customer Support,Support Team Lead,2018-08-31,84800.0,3,3,Resigned,0
+EMP-1467,Dorothy Martin,Female,Operations,Operations Manager,2021-09-06,102100.0,2,3,Resigned,0
+EMP-1122,Kenneth Flores,Male,Engineering,QA Analyst,2025-03-23,79100.0,4,5,Active,1
+EMP-1861,Andrew Johnson,Male,Sales,Regional Sales Lead,2023-11-15,96000.0,3,6,Active,1
